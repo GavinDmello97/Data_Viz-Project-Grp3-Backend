@@ -1,1 +1,4366 @@
-[{"date":"1975","countryList":[{"Region":"8","CountryName":"Albania","Year":"1975","Value":"4338.334"},{"Region":"12","CountryName":"Algeria","Year":"1975","Value":"13552.694"},{"Region":"24","CountryName":"Angola","Year":"1975","Value":"1955.802"},{"Region":"32","CountryName":"Argentina","Year":"1975","Value":"85231.756"},{"Region":"36","CountryName":"Australia","Year":"1975","Value":"179467.397"},{"Region":"40","CountryName":"Austria","Year":"1975","Value":"49488.796"},{"Region":"48","CountryName":"Bahrain","Year":"1975","Value":"5229.829"},{"Region":"50","CountryName":"Bangladesh","Year":"1975","Value":"4409.654"},{"Region":"56","CountryName":"Belgium","Year":"1975","Value":"115556.917"},{"Region":"204","CountryName":"Benin","Year":"1975","Value":"462.751"},{"Region":"68","CountryName":"Bolivia","Year":"1975","Value":"3224.491"},{"Region":"76","CountryName":"Brazil","Year":"1975","Value":"129628.181"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"1975","Value":"1408.173"},{"Region":"100","CountryName":"Bulgaria","Year":"1975","Value":"73315.187"},{"Region":"120","CountryName":"Cameroon","Year":"1975","Value":"1019.224"},{"Region":"124","CountryName":"Canada","Year":"1975","Value":"377105.855"},{"Region":"152","CountryName":"Chile","Year":"1975","Value":"17111.657"},{"Region":"156","CountryName":"China","Year":"1975","Value":"1029319.44"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"1975","Value":"10897.089"},{"Region":"170","CountryName":"Colombia","Year":"1975","Value":"28297.258"},{"Region":"178","CountryName":"Congo","Year":"1975","Value":"606.426"},{"Region":"188","CountryName":"Costa Rica","Year":"1975","Value":"1738.003"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"1975","Value":"3038.34"},{"Region":"192","CountryName":"Cuba","Year":"1975","Value":"24184.624"},{"Region":"196","CountryName":"Cyprus","Year":"1975","Value":"1658.258"},{"Region":"203","CountryName":"Czechia","Year":"1975","Value":"154982.193"},{"Region":"408","CountryName":"North Korea","Year":"1975","Value":"78598.511"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"1975","Value":"2620.726"},{"Region":"208","CountryName":"Denmark","Year":"1975","Value":"52645.648"},{"Region":"214","CountryName":"Dominican Republic","Year":"1975","Value":"5213.329"},{"Region":"218","CountryName":"Ecuador","Year":"1975","Value":"5935.604"},{"Region":"818","CountryName":"Egypt","Year":"1975","Value":"25581.444"},{"Region":"222","CountryName":"El Salvador","Year":"1975","Value":"1929.707"},{"Region":"231","CountryName":"Ethiopia","Year":"1975","Value":"1178.11"},{"Region":"246","CountryName":"Finland","Year":"1975","Value":"44188.917"},{"Region":"250","CountryName":"France","Year":"1975","Value":"423108.047"},{"Region":"266","CountryName":"Gabon","Year":"1975","Value":"757.319"},{"Region":"276","CountryName":"Germany","Year":"1975","Value":"973365.909"},{"Region":"288","CountryName":"Ghana","Year":"1975","Value":"2305.818"},{"Region":"292","CountryName":"Gibraltar","Year":"1975","Value":"62.036"},{"Region":"300","CountryName":"Greece","Year":"1975","Value":"34099.717"},{"Region":"320","CountryName":"Guatemala","Year":"1975","Value":"3015.686"},{"Region":"332","CountryName":"Haiti","Year":"1975","Value":"412.844"},{"Region":"340","CountryName":"Honduras","Year":"1975","Value":"1327.971"},{"Region":"348","CountryName":"Hungary","Year":"1975","Value":"70172.709"},{"Region":"352","CountryName":"Iceland","Year":"1975","Value":"1614.157"},{"Region":"356","CountryName":"India","Year":"1975","Value":"217193.593"},{"Region":"360","CountryName":"Indonesia","Year":"1975","Value":"37839.826"},{"Region":"364","CountryName":"Iran","Year":"1975","Value":"68032.544"},{"Region":"368","CountryName":"Iraq","Year":"1975","Value":"15538.682"},{"Region":"372","CountryName":"Ireland","Year":"1975","Value":"21148.87"},{"Region":"376","CountryName":"Israel","Year":"1975","Value":"16410.171"},{"Region":"380","CountryName":"Italy","Year":"1975","Value":"317060.307"},{"Region":"388","CountryName":"Jamaica","Year":"1975","Value":"7448.304"},{"Region":"392","CountryName":"Japan","Year":"1975","Value":"849909.997"},{"Region":"400","CountryName":"Jordan","Year":"1975","Value":"2151.025"},{"Region":"404","CountryName":"Kenya","Year":"1975","Value":"3460.622"},{"Region":"414","CountryName":"Kuwait","Year":"1975","Value":"15107.406"},{"Region":"422","CountryName":"Lebanon","Year":"1975","Value":"5709.367"},{"Region":"434","CountryName":"Libya","Year":"1975","Value":"8670.6"},{"Region":"442","CountryName":"Luxembourg","Year":"1975","Value":"12739.168"},{"Region":"458","CountryName":"Malaysia","Year":"1975","Value":"16217.173"},{"Region":"470","CountryName":"Malta","Year":"1975","Value":"651.329"},{"Region":"480","CountryName":"Mauritania","Year":"1975","Value":"422.4"},{"Region":"484","CountryName":"Mexico","Year":"1975","Value":"134558.202"},{"Region":"504","CountryName":"Morocco","Year":"1975","Value":"9662.413"},{"Region":"508","CountryName":"Mozambique","Year":"1975","Value":"2375.964"},{"Region":"104","CountryName":"Myanmar","Year":"1975","Value":"3927.468"},{"Region":"524","CountryName":"Nepal","Year":"1975","Value":"318.654"},{"Region":"528","CountryName":"Netherlands","Year":"1975","Value":"131962.01"},{"Region":"554","CountryName":"New Zealand","Year":"1975","Value":"16429.691"},{"Region":"558","CountryName":"Nicaragua","Year":"1975","Value":"1849.605"},{"Region":"566","CountryName":"Nigeria","Year":"1975","Value":"10816.425"},{"Region":"578","CountryName":"Norway","Year":"1975","Value":"23603.322"},{"Region":"512","CountryName":"Oman","Year":"1975","Value":"722.24"},{"Region":"586","CountryName":"Pakistan","Year":"1975","Value":"19981.642"},{"Region":"591","CountryName":"Panama","Year":"1975","Value":"3096.657"},{"Region":"600","CountryName":"Paraguay","Year":"1975","Value":"703.543"},{"Region":"604","CountryName":"Peru","Year":"1975","Value":"18240.381"},{"Region":"608","CountryName":"Philippines","Year":"1975","Value":"29244.261"},{"Region":"616","CountryName":"Poland","Year":"1975","Value":"338900.005"},{"Region":"620","CountryName":"Portugal","Year":"1975","Value":"18031.11"},{"Region":"634","CountryName":"Qatar","Year":"1975","Value":"4927.527"},{"Region":"410","CountryName":"South Korea","Year":"1975","Value":"77728.222"},{"Region":"642","CountryName":"Romania","Year":"1975","Value":"140600.336"},{"Region":"682","CountryName":"Saudi Arabia","Year":"1975","Value":"22518.895"},{"Region":"686","CountryName":"Senegal","Year":"1975","Value":"1609.257"},{"Region":"702","CountryName":"Singapore","Year":"1975","Value":"8439.735"},{"Region":"703","CountryName":"Slovakia","Year":"1975","Value":"43153.699"},{"Region":"710","CountryName":"South Africa","Year":"1975","Value":"202998.951"},{"Region":"724","CountryName":"Spain","Year":"1975","Value":"155843.041"},{"Region":"144","CountryName":"Sri Lanka","Year":"1975","Value":"2637.329"},{"Region":"729","CountryName":"Sudan","Year":"1975","Value":"3212.724"},{"Region":"752","CountryName":"Sweden","Year":"1975","Value":"79041.446"},{"Region":"756","CountryName":"Switzerland","Year":"1975","Value":"36753.441"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"1975","Value":"8260.522"},{"Region":"764","CountryName":"Thailand","Year":"1975","Value":"21151.546"},{"Region":"768","CountryName":"Togo","Year":"1975","Value":"317.366"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"1975","Value":"4575.18"},{"Region":"788","CountryName":"Tunisia","Year":"1975","Value":"4846.357"},{"Region":"792","CountryName":"Turkey","Year":"1975","Value":"59631.229"},{"Region":"784","CountryName":"United Arab Emirates","Year":"1975","Value":"4919.173"},{"Region":"826","CountryName":"United Kingdom","Year":"1975","Value":"576041.678"},{"Region":"834","CountryName":"Tanzania","Year":"1975","Value":"1405.116"},{"Region":"840","CountryName":"United States of America","Year":"1975","Value":"4355839.181"},{"Region":"858","CountryName":"Uruguay","Year":"1975","Value":"5333.968"},{"Region":"862","CountryName":"Venezuela","Year":"1975","Value":"56070.364"},{"Region":"704","CountryName":"Vietnam","Year":"1975","Value":"16953.904"},{"Region":"887","CountryName":"Yemen","Year":"1975","Value":"1752.491"},{"Region":"894","CountryName":"Zambia","Year":"1975","Value":"4326.456"},{"Region":"716","CountryName":"Zimbabwe","Year":"1975","Value":"7169.25"}]},{"date":"1985","countryList":[{"Region":"8","CountryName":"Albania","Year":"1985","Value":"6929.926"},{"Region":"12","CountryName":"Algeria","Year":"1985","Value":"42073.253"},{"Region":"24","CountryName":"Angola","Year":"1985","Value":"2817.595"},{"Region":"32","CountryName":"Argentina","Year":"1985","Value":"87779.28"},{"Region":"36","CountryName":"Australia","Year":"1985","Value":"220128.059"},{"Region":"40","CountryName":"Austria","Year":"1985","Value":"52649.019"},{"Region":"48","CountryName":"Bahrain","Year":"1985","Value":"9099.749"},{"Region":"50","CountryName":"Bangladesh","Year":"1985","Value":"7705.068"},{"Region":"56","CountryName":"Belgium","Year":"1985","Value":"100991.897"},{"Region":"204","CountryName":"Benin","Year":"1985","Value":"472.814"},{"Region":"68","CountryName":"Bolivia","Year":"1985","Value":"4313.546"},{"Region":"72","CountryName":"Botswana","Year":"1985","Value":"1500.972"},{"Region":"76","CountryName":"Brazil","Year":"1985","Value":"156328.184"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"1985","Value":"2945.928"},{"Region":"100","CountryName":"Bulgaria","Year":"1985","Value":"82206.429"},{"Region":"120","CountryName":"Cameroon","Year":"1985","Value":"2378.233"},{"Region":"124","CountryName":"Canada","Year":"1985","Value":"393880.167"},{"Region":"152","CountryName":"Chile","Year":"1985","Value":"19631.224"},{"Region":"156","CountryName":"China","Year":"1985","Value":"1626027.131"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"1985","Value":"22306.16"},{"Region":"170","CountryName":"Colombia","Year":"1985","Value":"39473.328"},{"Region":"178","CountryName":"Congo","Year":"1985","Value":"759.835"},{"Region":"188","CountryName":"Costa Rica","Year":"1985","Value":"1948.536"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"1985","Value":"3046.744"},{"Region":"192","CountryName":"Cuba","Year":"1985","Value":"32178.767"},{"Region":"196","CountryName":"Cyprus","Year":"1985","Value":"2765.082"},{"Region":"203","CountryName":"Czechia","Year":"1985","Value":"175254.229"},{"Region":"408","CountryName":"North Korea","Year":"1985","Value":"129448.215"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"1985","Value":"3254.053"},{"Region":"208","CountryName":"Denmark","Year":"1985","Value":"61031.807"},{"Region":"214","CountryName":"Dominican Republic","Year":"1985","Value":"6234.306"},{"Region":"218","CountryName":"Ecuador","Year":"1985","Value":"11665.556"},{"Region":"818","CountryName":"Egypt","Year":"1985","Value":"64473.872"},{"Region":"222","CountryName":"El Salvador","Year":"1985","Value":"1640.679"},{"Region":"231","CountryName":"Ethiopia","Year":"1985","Value":"1385.977"},{"Region":"246","CountryName":"Finland","Year":"1985","Value":"48284.914"},{"Region":"250","CountryName":"France","Year":"1985","Value":"351797.985"},{"Region":"266","CountryName":"Gabon","Year":"1985","Value":"1682.488"},{"Region":"276","CountryName":"Germany","Year":"1985","Value":"1004256.098"},{"Region":"288","CountryName":"Ghana","Year":"1985","Value":"2067.234"},{"Region":"292","CountryName":"Gibraltar","Year":"1985","Value":"90.096"},{"Region":"300","CountryName":"Greece","Year":"1985","Value":"54479.901"},{"Region":"320","CountryName":"Guatemala","Year":"1985","Value":"3183.813"},{"Region":"332","CountryName":"Haiti","Year":"1985","Value":"796.137"},{"Region":"340","CountryName":"Honduras","Year":"1985","Value":"1671.582"},{"Region":"348","CountryName":"Hungary","Year":"1985","Value":"79755.472"},{"Region":"352","CountryName":"Iceland","Year":"1985","Value":"1627.919"},{"Region":"356","CountryName":"India","Year":"1985","Value":"376237.076"},{"Region":"360","CountryName":"Indonesia","Year":"1985","Value":"84233.249"},{"Region":"364","CountryName":"Iran","Year":"1985","Value":"145047.521"},{"Region":"368","CountryName":"Iraq","Year":"1985","Value":"37974.35"},{"Region":"372","CountryName":"Ireland","Year":"1985","Value":"26453.225"},{"Region":"376","CountryName":"Israel","Year":"1985","Value":"24310.593"},{"Region":"380","CountryName":"Italy","Year":"1985","Value":"342046.885"},{"Region":"388","CountryName":"Jamaica","Year":"1985","Value":"4669.488"},{"Region":"392","CountryName":"Japan","Year":"1985","Value":"866233.818"},{"Region":"400","CountryName":"Jordan","Year":"1985","Value":"7474.582"},{"Region":"404","CountryName":"Kenya","Year":"1985","Value":"4592.785"},{"Region":"414","CountryName":"Kuwait","Year":"1985","Value":"36749.463"},{"Region":"422","CountryName":"Lebanon","Year":"1985","Value":"6614.05"},{"Region":"434","CountryName":"Libya","Year":"1985","Value":"21243.693"},{"Region":"442","CountryName":"Luxembourg","Year":"1985","Value":"10335.311"},{"Region":"458","CountryName":"Malaysia","Year":"1985","Value":"32910.606"},{"Region":"470","CountryName":"Malta","Year":"1985","Value":"1158.07"},{"Region":"480","CountryName":"Mauritania","Year":"1985","Value":"611.518"},{"Region":"484","CountryName":"Mexico","Year":"1985","Value":"241153.838"},{"Region":"496","CountryName":"Mongolia","Year":"1985","Value":"11761.986"},{"Region":"504","CountryName":"Morocco","Year":"1985","Value":"16272.651"},{"Region":"508","CountryName":"Mozambique","Year":"1985","Value":"1504.154"},{"Region":"104","CountryName":"Myanmar","Year":"1985","Value":"5734.879"},{"Region":"524","CountryName":"Nepal","Year":"1985","Value":"551.256"},{"Region":"528","CountryName":"Netherlands","Year":"1985","Value":"138396.723"},{"Region":"554","CountryName":"New Zealand","Year":"1985","Value":"18905.085"},{"Region":"558","CountryName":"Nicaragua","Year":"1985","Value":"1805.723"},{"Region":"566","CountryName":"Nigeria","Year":"1985","Value":"31785.039"},{"Region":"578","CountryName":"Norway","Year":"1985","Value":"26415.65"},{"Region":"512","CountryName":"Oman","Year":"1985","Value":"5636.288"},{"Region":"586","CountryName":"Pakistan","Year":"1985","Value":"36498.746"},{"Region":"591","CountryName":"Panama","Year":"1985","Value":"2666.133"},{"Region":"600","CountryName":"Paraguay","Year":"1985","Value":"1422.914"},{"Region":"604","CountryName":"Peru","Year":"1985","Value":"18051.923"},{"Region":"608","CountryName":"Philippines","Year":"1985","Value":"29268.471"},{"Region":"616","CountryName":"Poland","Year":"1985","Value":"422392.233"},{"Region":"620","CountryName":"Portugal","Year":"1985","Value":"23924.909"},{"Region":"634","CountryName":"Qatar","Year":"1985","Value":"10685.735"},{"Region":"410","CountryName":"South Korea","Year":"1985","Value":"155729.6"},{"Region":"642","CountryName":"Romania","Year":"1985","Value":"174876.064"},{"Region":"682","CountryName":"Saudi Arabia","Year":"1985","Value":"117802.204"},{"Region":"686","CountryName":"Senegal","Year":"1985","Value":"2124.697"},{"Region":"702","CountryName":"Singapore","Year":"1985","Value":"16604.537"},{"Region":"703","CountryName":"Slovakia","Year":"1985","Value":"54413.304"},{"Region":"710","CountryName":"South Africa","Year":"1985","Value":"222952.718"},{"Region":"724","CountryName":"Spain","Year":"1985","Value":"173024.021"},{"Region":"144","CountryName":"Sri Lanka","Year":"1985","Value":"3485.027"},{"Region":"729","CountryName":"Sudan","Year":"1985","Value":"3980.398"},{"Region":"752","CountryName":"Sweden","Year":"1985","Value":"58385.814"},{"Region":"756","CountryName":"Switzerland","Year":"1985","Value":"41772.73"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"1985","Value":"19536.172"},{"Region":"764","CountryName":"Thailand","Year":"1985","Value":"42058.571"},{"Region":"768","CountryName":"Togo","Year":"1985","Value":"296.704"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"1985","Value":"6654.053"},{"Region":"788","CountryName":"Tunisia","Year":"1985","Value":"9661.523"},{"Region":"792","CountryName":"Turkey","Year":"1985","Value":"95358.471"},{"Region":"784","CountryName":"United Arab Emirates","Year":"1985","Value":"35636.27"},{"Region":"826","CountryName":"United Kingdom","Year":"1985","Value":"543545.262"},{"Region":"834","CountryName":"Tanzania","Year":"1985","Value":"1463.256"},{"Region":"840","CountryName":"United States of America","Year":"1985","Value":"4514313.221"},{"Region":"858","CountryName":"Uruguay","Year":"1985","Value":"3010.832"},{"Region":"862","CountryName":"Venezuela","Year":"1985","Value":"85139.411"},{"Region":"704","CountryName":"Vietnam","Year":"1985","Value":"17434.722"},{"Region":"887","CountryName":"Yemen","Year":"1985","Value":"4857.042"},{"Region":"894","CountryName":"Zambia","Year":"1985","Value":"2696.412"},{"Region":"716","CountryName":"Zimbabwe","Year":"1985","Value":"9730.003"}]},{"date":"1995","countryList":[{"Region":"8","CountryName":"Albania","Year":"1995","Value":"1848.549"},{"Region":"12","CountryName":"Algeria","Year":"1995","Value":"55336.862"},{"Region":"24","CountryName":"Angola","Year":"1995","Value":"3913.613"},{"Region":"32","CountryName":"Argentina","Year":"1995","Value":"117327.938"},{"Region":"51","CountryName":"Armenia","Year":"1995","Value":"3368.027"},{"Region":"36","CountryName":"Australia","Year":"1995","Value":"285324.094"},{"Region":"40","CountryName":"Austria","Year":"1995","Value":"59549.049"},{"Region":"31","CountryName":"Azerbaijan","Year":"1995","Value":"32372.42"},{"Region":"48","CountryName":"Bahrain","Year":"1995","Value":"13457.588"},{"Region":"50","CountryName":"Bangladesh","Year":"1995","Value":"16485.473"},{"Region":"112","CountryName":"Belarus","Year":"1995","Value":"56957.863"},{"Region":"56","CountryName":"Belgium","Year":"1995","Value":"111313.683"},{"Region":"204","CountryName":"Benin","Year":"1995","Value":"221.525"},{"Region":"68","CountryName":"Bolivia","Year":"1995","Value":"6893.805"},{"Region":"70","CountryName":"Bosnia and Herzegovina","Year":"1995","Value":"3279.823"},{"Region":"72","CountryName":"Botswana","Year":"1995","Value":"3189.755"},{"Region":"76","CountryName":"Brazil","Year":"1995","Value":"228000.209"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"1995","Value":"4502.607"},{"Region":"100","CountryName":"Bulgaria","Year":"1995","Value":"52737.289"},{"Region":"116","CountryName":"Cambodia","Year":"1995","Value":"1470.828"},{"Region":"120","CountryName":"Cameroon","Year":"1995","Value":"2459.446"},{"Region":"124","CountryName":"Canada","Year":"1995","Value":"448985.855"},{"Region":"152","CountryName":"Chile","Year":"1995","Value":"37075.351"},{"Region":"156","CountryName":"China","Year":"1995","Value":"2900265.046"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"1995","Value":"36527.226"},{"Region":"170","CountryName":"Colombia","Year":"1995","Value":"54457.808"},{"Region":"178","CountryName":"Congo","Year":"1995","Value":"536.664"},{"Region":"188","CountryName":"Costa Rica","Year":"1995","Value":"4438.795"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"1995","Value":"3262.483"},{"Region":"191","CountryName":"Croatia","Year":"1995","Value":"14774.177"},{"Region":"192","CountryName":"Cuba","Year":"1995","Value":"22448.802"},{"Region":"196","CountryName":"Cyprus","Year":"1995","Value":"5048.341"},{"Region":"203","CountryName":"Czechia","Year":"1995","Value":"123174.79"},{"Region":"408","CountryName":"North Korea","Year":"1995","Value":"76532.289"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"1995","Value":"1142.631"},{"Region":"208","CountryName":"Denmark","Year":"1995","Value":"58385.219"},{"Region":"214","CountryName":"Dominican Republic","Year":"1995","Value":"11221.463"},{"Region":"218","CountryName":"Ecuador","Year":"1995","Value":"16691.131"},{"Region":"818","CountryName":"Egypt","Year":"1995","Value":"81466.137"},{"Region":"222","CountryName":"El Salvador","Year":"1995","Value":"4573.345"},{"Region":"232","CountryName":"Eritrea","Year":"1995","Value":"776.324"},{"Region":"233","CountryName":"Estonia","Year":"1995","Value":"15889.313"},{"Region":"231","CountryName":"Ethiopia","Year":"1995","Value":"2325.783"},{"Region":"246","CountryName":"Finland","Year":"1995","Value":"55714.578"},{"Region":"250","CountryName":"France","Year":"1995","Value":"343648.115"},{"Region":"266","CountryName":"Gabon","Year":"1995","Value":"1315.246"},{"Region":"268","CountryName":"Georgia","Year":"1995","Value":"8136.847"},{"Region":"276","CountryName":"Germany","Year":"1995","Value":"856596.915"},{"Region":"288","CountryName":"Ghana","Year":"1995","Value":"3184.394"},{"Region":"292","CountryName":"Gibraltar","Year":"1995","Value":"280.803"},{"Region":"300","CountryName":"Greece","Year":"1995","Value":"76478.485"},{"Region":"320","CountryName":"Guatemala","Year":"1995","Value":"5858.99"},{"Region":"332","CountryName":"Haiti","Year":"1995","Value":"902.323"},{"Region":"340","CountryName":"Honduras","Year":"1995","Value":"3575.392"},{"Region":"348","CountryName":"Hungary","Year":"1995","Value":"56245.319"},{"Region":"352","CountryName":"Iceland","Year":"1995","Value":"1964.286"},{"Region":"356","CountryName":"India","Year":"1995","Value":"703332.012"},{"Region":"360","CountryName":"Indonesia","Year":"1995","Value":"204206.565"},{"Region":"364","CountryName":"Iran","Year":"1995","Value":"244569.989"},{"Region":"368","CountryName":"Iraq","Year":"1995","Value":"95144.89"},{"Region":"372","CountryName":"Ireland","Year":"1995","Value":"32636.823"},{"Region":"376","CountryName":"Israel","Year":"1995","Value":"44873.881"},{"Region":"380","CountryName":"Italy","Year":"1995","Value":"401104.969"},{"Region":"388","CountryName":"Jamaica","Year":"1995","Value":"8417"},{"Region":"392","CountryName":"Japan","Year":"1995","Value":"1118246.59"},{"Region":"400","CountryName":"Jordan","Year":"1995","Value":"12194.147"},{"Region":"398","CountryName":"Kazakhstan","Year":"1995","Value":"170519.468"},{"Region":"404","CountryName":"Kenya","Year":"1995","Value":"5729.446"},{"Region":"414","CountryName":"Kuwait","Year":"1995","Value":"32351.708"},{"Region":"417","CountryName":"Kyrgyzstan","Year":"1995","Value":"4458.54"},{"Region":"428","CountryName":"Latvia","Year":"1995","Value":"8902.54"},{"Region":"422","CountryName":"Lebanon","Year":"1995","Value":"12829.853"},{"Region":"434","CountryName":"Libya","Year":"1995","Value":"32953.725"},{"Region":"440","CountryName":"Lithuania","Year":"1995","Value":"13434.207"},{"Region":"442","CountryName":"Luxembourg","Year":"1995","Value":"8225.746"},{"Region":"458","CountryName":"Malaysia","Year":"1995","Value":"79589.944"},{"Region":"470","CountryName":"Malta","Year":"1995","Value":"2378.847"},{"Region":"480","CountryName":"Mauritania","Year":"1995","Value":"1551.459"},{"Region":"484","CountryName":"Mexico","Year":"1995","Value":"291336.44"},{"Region":"496","CountryName":"Mongolia","Year":"1995","Value":"10235.411"},{"Region":"504","CountryName":"Morocco","Year":"1995","Value":"26073.834"},{"Region":"508","CountryName":"Mozambique","Year":"1995","Value":"1148.226"},{"Region":"104","CountryName":"Myanmar","Year":"1995","Value":"6727.112"},{"Region":"516","CountryName":"Namibia","Year":"1995","Value":"1794.288"},{"Region":"524","CountryName":"Nepal","Year":"1995","Value":"1763.15"},{"Region":"528","CountryName":"Netherlands","Year":"1995","Value":"163582.74"},{"Region":"554","CountryName":"New Zealand","Year":"1995","Value":"23933.941"},{"Region":"558","CountryName":"Nicaragua","Year":"1995","Value":"2513.712"},{"Region":"566","CountryName":"Nigeria","Year":"1995","Value":"32775.287"},{"Region":"578","CountryName":"Norway","Year":"1995","Value":"31408.419"},{"Region":"512","CountryName":"Oman","Year":"1995","Value":"14691.666"},{"Region":"586","CountryName":"Pakistan","Year":"1995","Value":"79248.729"},{"Region":"591","CountryName":"Panama","Year":"1995","Value":"4091.661"},{"Region":"600","CountryName":"Paraguay","Year":"1995","Value":"3489.665"},{"Region":"604","CountryName":"Peru","Year":"1995","Value":"23310.638"},{"Region":"608","CountryName":"Philippines","Year":"1995","Value":"57257.517"},{"Region":"616","CountryName":"Poland","Year":"1995","Value":"333337.838"},{"Region":"620","CountryName":"Portugal","Year":"1995","Value":"47231.15"},{"Region":"634","CountryName":"Qatar","Year":"1995","Value":"16831.699"},{"Region":"410","CountryName":"South Korea","Year":"1995","Value":"357306.006"},{"Region":"498","CountryName":"Republic of Moldova","Year":"1995","Value":"11892.994"},{"Region":"642","CountryName":"Romania","Year":"1995","Value":"117587.815"},{"Region":"643","CountryName":"Russia","Year":"1995","Value":"1548252.185"},{"Region":"682","CountryName":"Saudi Arabia","Year":"1995","Value":"191653.1"},{"Region":"686","CountryName":"Senegal","Year":"1995","Value":"2478.529"},{"Region":"688","CountryName":"Serbia","Year":"1995","Value":"44548.887"},{"Region":"702","CountryName":"Singapore","Year":"1995","Value":"37581.859"},{"Region":"703","CountryName":"Slovakia","Year":"1995","Value":"41215.629"},{"Region":"705","CountryName":"Slovenia","Year":"1995","Value":"14063.911"},{"Region":"710","CountryName":"South Africa","Year":"1995","Value":"259773.474"},{"Region":"724","CountryName":"Spain","Year":"1995","Value":"228207.254"},{"Region":"144","CountryName":"Sri Lanka","Year":"1995","Value":"5454.193"},{"Region":"729","CountryName":"Sudan","Year":"1995","Value":"4308.578"},{"Region":"752","CountryName":"Sweden","Year":"1995","Value":"56934.868"},{"Region":"756","CountryName":"Switzerland","Year":"1995","Value":"41451.234"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"1995","Value":"31132.913"},{"Region":"762","CountryName":"Tajikistan","Year":"1995","Value":"2459.615"},{"Region":"764","CountryName":"Thailand","Year":"1995","Value":"139938.48"},{"Region":"807","CountryName":"North Macedonia","Year":"1995","Value":"8305.696"},{"Region":"768","CountryName":"Togo","Year":"1995","Value":"579.397"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"1995","Value":"8163.496"},{"Region":"788","CountryName":"Tunisia","Year":"1995","Value":"14035.985"},{"Region":"792","CountryName":"Turkey","Year":"1995","Value":"154030.155"},{"Region":"795","CountryName":"Turkmenistan","Year":"1995","Value":"33255.953"},{"Region":"804","CountryName":"Ukraine","Year":"1995","Value":"395842.067"},{"Region":"784","CountryName":"United Arab Emirates","Year":"1995","Value":"69659.182"},{"Region":"826","CountryName":"United Kingdom","Year":"1995","Value":"513796.422"},{"Region":"834","CountryName":"Tanzania","Year":"1995","Value":"2492.046"},{"Region":"840","CountryName":"United States of America","Year":"1995","Value":"5073896.072"},{"Region":"858","CountryName":"Uruguay","Year":"1995","Value":"4391.965"},{"Region":"860","CountryName":"Uzbekistan","Year":"1995","Value":"94583.912"},{"Region":"862","CountryName":"Venezuela","Year":"1995","Value":"106098.113"},{"Region":"704","CountryName":"Vietnam","Year":"1995","Value":"27462.105"},{"Region":"887","CountryName":"Yemen","Year":"1995","Value":"9436.415"},{"Region":"894","CountryName":"Zambia","Year":"1995","Value":"2002.364"},{"Region":"716","CountryName":"Zimbabwe","Year":"1995","Value":"15089.219"}]},{"date":"2005","countryList":[{"Region":"8","CountryName":"Albania","Year":"2005","Value":"3825.184"},{"Region":"12","CountryName":"Algeria","Year":"2005","Value":"77474.13"},{"Region":"24","CountryName":"Angola","Year":"2005","Value":"6146.691"},{"Region":"32","CountryName":"Argentina","Year":"2005","Value":"149476.04"},{"Region":"51","CountryName":"Armenia","Year":"2005","Value":"4129.845"},{"Region":"36","CountryName":"Australia","Year":"2005","Value":"365515.118"},{"Region":"40","CountryName":"Austria","Year":"2005","Value":"74764.026"},{"Region":"31","CountryName":"Azerbaijan","Year":"2005","Value":"29018.489"},{"Region":"48","CountryName":"Bahrain","Year":"2005","Value":"20564.912"},{"Region":"50","CountryName":"Bangladesh","Year":"2005","Value":"31960.244"},{"Region":"112","CountryName":"Belarus","Year":"2005","Value":"55014.16"},{"Region":"56","CountryName":"Belgium","Year":"2005","Value":"107676.772"},{"Region":"204","CountryName":"Benin","Year":"2005","Value":"2677.863"},{"Region":"68","CountryName":"Bolivia","Year":"2005","Value":"8975.809"},{"Region":"70","CountryName":"Bosnia and Herzegovina","Year":"2005","Value":"15857.733"},{"Region":"72","CountryName":"Botswana","Year":"2005","Value":"4278.592"},{"Region":"76","CountryName":"Brazil","Year":"2005","Value":"311623.799"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"2005","Value":"4823.126"},{"Region":"100","CountryName":"Bulgaria","Year":"2005","Value":"46473.483"},{"Region":"116","CountryName":"Cambodia","Year":"2005","Value":"2639.032"},{"Region":"120","CountryName":"Cameroon","Year":"2005","Value":"2935.781"},{"Region":"124","CountryName":"Canada","Year":"2005","Value":"540431.495"},{"Region":"152","CountryName":"Chile","Year":"2005","Value":"54434.634"},{"Region":"156","CountryName":"China","Year":"2005","Value":"5407518.03"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"2005","Value":"41332.022"},{"Region":"170","CountryName":"Colombia","Year":"2005","Value":"53585.3"},{"Region":"178","CountryName":"Congo","Year":"2005","Value":"843.574"},{"Region":"188","CountryName":"Costa Rica","Year":"2005","Value":"5463.059"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"2005","Value":"5813.001"},{"Region":"191","CountryName":"Croatia","Year":"2005","Value":"19917.214"},{"Region":"192","CountryName":"Cuba","Year":"2005","Value":"25051.431"},{"Region":"196","CountryName":"Cyprus","Year":"2005","Value":"7047.944"},{"Region":"203","CountryName":"Czechia","Year":"2005","Value":"118369.879"},{"Region":"408","CountryName":"North Korea","Year":"2005","Value":"75340.154"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"2005","Value":"1281.832"},{"Region":"208","CountryName":"Denmark","Year":"2005","Value":"48494.944"},{"Region":"214","CountryName":"Dominican Republic","Year":"2005","Value":"17522.139"},{"Region":"218","CountryName":"Ecuador","Year":"2005","Value":"23926.725"},{"Region":"818","CountryName":"Egypt","Year":"2005","Value":"145027.708"},{"Region":"222","CountryName":"El Salvador","Year":"2005","Value":"6252.815"},{"Region":"232","CountryName":"Eritrea","Year":"2005","Value":"578.183"},{"Region":"233","CountryName":"Estonia","Year":"2005","Value":"16747.695"},{"Region":"231","CountryName":"Ethiopia","Year":"2005","Value":"4482.124"},{"Region":"246","CountryName":"Finland","Year":"2005","Value":"54918.043"},{"Region":"250","CountryName":"France","Year":"2005","Value":"371892.91"},{"Region":"266","CountryName":"Gabon","Year":"2005","Value":"1733.485"},{"Region":"268","CountryName":"Georgia","Year":"2005","Value":"4065.656"},{"Region":"276","CountryName":"Germany","Year":"2005","Value":"786664.297"},{"Region":"288","CountryName":"Ghana","Year":"2005","Value":"6306.508"},{"Region":"292","CountryName":"Gibraltar","Year":"2005","Value":"405.663"},{"Region":"300","CountryName":"Greece","Year":"2005","Value":"95156.324"},{"Region":"320","CountryName":"Guatemala","Year":"2005","Value":"10621.597"},{"Region":"332","CountryName":"Haiti","Year":"2005","Value":"1980.992"},{"Region":"340","CountryName":"Honduras","Year":"2005","Value":"7192.737"},{"Region":"348","CountryName":"Hungary","Year":"2005","Value":"54722.182"},{"Region":"352","CountryName":"Iceland","Year":"2005","Value":"2235.38"},{"Region":"356","CountryName":"India","Year":"2005","Value":"1073700.993"},{"Region":"360","CountryName":"Indonesia","Year":"2005","Value":"317824.312"},{"Region":"364","CountryName":"Iran","Year":"2005","Value":"417780.642"},{"Region":"368","CountryName":"Iraq","Year":"2005","Value":"73175.677"},{"Region":"372","CountryName":"Ireland","Year":"2005","Value":"44420.119"},{"Region":"376","CountryName":"Israel","Year":"2005","Value":"58796.711"},{"Region":"380","CountryName":"Italy","Year":"2005","Value":"456431.826"},{"Region":"388","CountryName":"Jamaica","Year":"2005","Value":"10281.648"},{"Region":"392","CountryName":"Japan","Year":"2005","Value":"1166814.399"},{"Region":"400","CountryName":"Jordan","Year":"2005","Value":"17922.443"},{"Region":"398","CountryName":"Kazakhstan","Year":"2005","Value":"156902.433"},{"Region":"404","CountryName":"Kenya","Year":"2005","Value":"7483.192"},{"Region":"412","CountryName":"Kosovo","Year":"2005","Value":"6639.156"},{"Region":"414","CountryName":"Kuwait","Year":"2005","Value":"64750.023"},{"Region":"417","CountryName":"Kyrgyzstan","Year":"2005","Value":"4891.9"},{"Region":"428","CountryName":"Latvia","Year":"2005","Value":"7580.61"},{"Region":"422","CountryName":"Lebanon","Year":"2005","Value":"14523.599"},{"Region":"434","CountryName":"Libya","Year":"2005","Value":"43101.459"},{"Region":"440","CountryName":"Lithuania","Year":"2005","Value":"12443.951"},{"Region":"442","CountryName":"Luxembourg","Year":"2005","Value":"11493.299"},{"Region":"458","CountryName":"Malaysia","Year":"2005","Value":"155842.735"},{"Region":"470","CountryName":"Malta","Year":"2005","Value":"2621.893"},{"Region":"480","CountryName":"Mauritania","Year":"2005","Value":"2961.755"},{"Region":"484","CountryName":"Mexico","Year":"2005","Value":"412385.135"},{"Region":"496","CountryName":"Mongolia","Year":"2005","Value":"10984.928"},{"Region":"499","CountryName":"Montenegro","Year":"2005","Value":"2004.798"},{"Region":"504","CountryName":"Morocco","Year":"2005","Value":"39215.868"},{"Region":"508","CountryName":"Mozambique","Year":"2005","Value":"1514.919"},{"Region":"104","CountryName":"Myanmar","Year":"2005","Value":"10477.314"},{"Region":"516","CountryName":"Namibia","Year":"2005","Value":"2492.652"},{"Region":"524","CountryName":"Nepal","Year":"2005","Value":"3074.201"},{"Region":"528","CountryName":"Netherlands","Year":"2005","Value":"167489.66"},{"Region":"554","CountryName":"New Zealand","Year":"2005","Value":"33690.287"},{"Region":"558","CountryName":"Nicaragua","Year":"2005","Value":"4032.083"},{"Region":"562","CountryName":"Niger","Year":"2005","Value":"736.144"},{"Region":"566","CountryName":"Nigeria","Year":"2005","Value":"56558.056"},{"Region":"578","CountryName":"Norway","Year":"2005","Value":"34500.489"},{"Region":"512","CountryName":"Oman","Year":"2005","Value":"25181.794"},{"Region":"586","CountryName":"Pakistan","Year":"2005","Value":"114969.678"},{"Region":"591","CountryName":"Panama","Year":"2005","Value":"6776.118"},{"Region":"600","CountryName":"Paraguay","Year":"2005","Value":"3472.665"},{"Region":"604","CountryName":"Peru","Year":"2005","Value":"28632.888"},{"Region":"608","CountryName":"Philippines","Year":"2005","Value":"71501.652"},{"Region":"616","CountryName":"Poland","Year":"2005","Value":"296261.105"},{"Region":"620","CountryName":"Portugal","Year":"2005","Value":"61385.798"},{"Region":"634","CountryName":"Qatar","Year":"2005","Value":"33211.677"},{"Region":"410","CountryName":"South Korea","Year":"2005","Value":"457672.117"},{"Region":"498","CountryName":"Republic of Moldova","Year":"2005","Value":"7810.491"},{"Region":"642","CountryName":"Romania","Year":"2005","Value":"92632.653"},{"Region":"643","CountryName":"Russia","Year":"2005","Value":"1481897.136"},{"Region":"682","CountryName":"Saudi Arabia","Year":"2005","Value":"298036.626"},{"Region":"686","CountryName":"Senegal","Year":"2005","Value":"4626.203"},{"Region":"688","CountryName":"Serbia","Year":"2005","Value":"50320.015"},{"Region":"702","CountryName":"Singapore","Year":"2005","Value":"36901.353"},{"Region":"703","CountryName":"Slovakia","Year":"2005","Value":"37262.253"},{"Region":"705","CountryName":"Slovenia","Year":"2005","Value":"15443.058"},{"Region":"710","CountryName":"South Africa","Year":"2005","Value":"372313.634"},{"Region":"724","CountryName":"Spain","Year":"2005","Value":"333710.098"},{"Region":"144","CountryName":"Sri Lanka","Year":"2005","Value":"13392.91"},{"Region":"729","CountryName":"Sudan","Year":"2005","Value":"9927.598"},{"Region":"740","CountryName":"Suriname","Year":"2005","Value":"1652.793"},{"Region":"752","CountryName":"Sweden","Year":"2005","Value":"49105.656"},{"Region":"756","CountryName":"Switzerland","Year":"2005","Value":"44006.757"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"2005","Value":"53466.192"},{"Region":"762","CountryName":"Tajikistan","Year":"2005","Value":"2347.227"},{"Region":"764","CountryName":"Thailand","Year":"2005","Value":"200203.804"},{"Region":"807","CountryName":"North Macedonia","Year":"2005","Value":"8917.292"},{"Region":"768","CountryName":"Togo","Year":"2005","Value":"963.204"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"2005","Value":"17175.823"},{"Region":"788","CountryName":"Tunisia","Year":"2005","Value":"19472.77"},{"Region":"792","CountryName":"Turkey","Year":"2005","Value":"215892.986"},{"Region":"795","CountryName":"Turkmenistan","Year":"2005","Value":"48103.296"},{"Region":"804","CountryName":"Ukraine","Year":"2005","Value":"290620.184"},{"Region":"784","CountryName":"United Arab Emirates","Year":"2005","Value":"111145.283"},{"Region":"826","CountryName":"United Kingdom","Year":"2005","Value":"531648.669"},{"Region":"834","CountryName":"Tanzania","Year":"2005","Value":"5118.673"},{"Region":"840","CountryName":"United States of America","Year":"2005","Value":"5703220.175"},{"Region":"858","CountryName":"Uruguay","Year":"2005","Value":"5151.871"},{"Region":"860","CountryName":"Uzbekistan","Year":"2005","Value":"105599.618"},{"Region":"862","CountryName":"Venezuela","Year":"2005","Value":"137701.548"},{"Region":"704","CountryName":"Vietnam","Year":"2005","Value":"79230.185"},{"Region":"887","CountryName":"Yemen","Year":"2005","Value":"18836.222"},{"Region":"894","CountryName":"Zambia","Year":"2005","Value":"2120.692"},{"Region":"716","CountryName":"Zimbabwe","Year":"2005","Value":"10272.774"}]},{"date":"2010","countryList":[{"Region":"8","CountryName":"Albania","Year":"2010","Value":"3930.295"},{"Region":"12","CountryName":"Algeria","Year":"2010","Value":"95535.489"},{"Region":"24","CountryName":"Angola","Year":"2010","Value":"15151.684"},{"Region":"32","CountryName":"Argentina","Year":"2010","Value":"173768.538"},{"Region":"51","CountryName":"Armenia","Year":"2010","Value":"4048.253"},{"Region":"36","CountryName":"Australia","Year":"2010","Value":"383618.673"},{"Region":"40","CountryName":"Austria","Year":"2010","Value":"68571.165"},{"Region":"31","CountryName":"Azerbaijan","Year":"2010","Value":"23532.476"},{"Region":"48","CountryName":"Bahrain","Year":"2010","Value":"25551.566"},{"Region":"50","CountryName":"Bangladesh","Year":"2010","Value":"49899.502"},{"Region":"112","CountryName":"Belarus","Year":"2010","Value":"59498.259"},{"Region":"56","CountryName":"Belgium","Year":"2010","Value":"103890.892"},{"Region":"204","CountryName":"Benin","Year":"2010","Value":"4573.129"},{"Region":"68","CountryName":"Bolivia","Year":"2010","Value":"13637.623"},{"Region":"70","CountryName":"Bosnia and Herzegovina","Year":"2010","Value":"20482.682"},{"Region":"72","CountryName":"Botswana","Year":"2010","Value":"3271.367"},{"Region":"76","CountryName":"Brazil","Year":"2010","Value":"372003.618"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"2010","Value":"6861.946"},{"Region":"100","CountryName":"Bulgaria","Year":"2010","Value":"44362.486"},{"Region":"116","CountryName":"Cambodia","Year":"2010","Value":"4621.82"},{"Region":"120","CountryName":"Cameroon","Year":"2010","Value":"5050.631"},{"Region":"124","CountryName":"Canada","Year":"2010","Value":"528618.581"},{"Region":"152","CountryName":"Chile","Year":"2010","Value":"68604.765"},{"Region":"156","CountryName":"China","Year":"2010","Value":"7832716.615"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"2010","Value":"41997.165"},{"Region":"170","CountryName":"Colombia","Year":"2010","Value":"60224.103"},{"Region":"178","CountryName":"Congo","Year":"2010","Value":"1833.183"},{"Region":"188","CountryName":"Costa Rica","Year":"2010","Value":"6622.054"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"2010","Value":"6245.044"},{"Region":"191","CountryName":"Croatia","Year":"2010","Value":"18248.777"},{"Region":"192","CountryName":"Cuba","Year":"2010","Value":"29508.746"},{"Region":"196","CountryName":"Cyprus","Year":"2010","Value":"7260.554"},{"Region":"203","CountryName":"Czechia","Year":"2010","Value":"112460.232"},{"Region":"408","CountryName":"North Korea","Year":"2010","Value":"49292.798"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"2010","Value":"1869.246"},{"Region":"208","CountryName":"Denmark","Year":"2010","Value":"47254.487"},{"Region":"214","CountryName":"Dominican Republic","Year":"2010","Value":"19021.523"},{"Region":"218","CountryName":"Ecuador","Year":"2010","Value":"32749.762"},{"Region":"818","CountryName":"Egypt","Year":"2010","Value":"176436.297"},{"Region":"222","CountryName":"El Salvador","Year":"2010","Value":"5826.204"},{"Region":"232","CountryName":"Eritrea","Year":"2010","Value":"479.57"},{"Region":"233","CountryName":"Estonia","Year":"2010","Value":"18563.998"},{"Region":"231","CountryName":"Ethiopia","Year":"2010","Value":"5898.599"},{"Region":"246","CountryName":"Finland","Year":"2010","Value":"62000.673"},{"Region":"250","CountryName":"France","Year":"2010","Value":"340218.09"},{"Region":"266","CountryName":"Gabon","Year":"2010","Value":"2659.638"},{"Region":"268","CountryName":"Georgia","Year":"2010","Value":"4995.027"},{"Region":"276","CountryName":"Germany","Year":"2010","Value":"758802.602"},{"Region":"288","CountryName":"Ghana","Year":"2010","Value":"10419.649"},{"Region":"292","CountryName":"Gibraltar","Year":"2010","Value":"474.195"},{"Region":"300","CountryName":"Greece","Year":"2010","Value":"83369.47"},{"Region":"320","CountryName":"Guatemala","Year":"2010","Value":"10272.703"},{"Region":"332","CountryName":"Haiti","Year":"2010","Value":"2095.144"},{"Region":"340","CountryName":"Honduras","Year":"2010","Value":"7535.444"},{"Region":"348","CountryName":"Hungary","Year":"2010","Value":"47145.132"},{"Region":"352","CountryName":"Iceland","Year":"2010","Value":"1949.182"},{"Region":"356","CountryName":"India","Year":"2010","Value":"1583431.201"},{"Region":"360","CountryName":"Indonesia","Year":"2010","Value":"357646.151"},{"Region":"364","CountryName":"Iran","Year":"2010","Value":"498607.87"},{"Region":"368","CountryName":"Iraq","Year":"2010","Value":"103576.749"},{"Region":"372","CountryName":"Ireland","Year":"2010","Value":"39516.725"},{"Region":"376","CountryName":"Israel","Year":"2010","Value":"68437.949"},{"Region":"380","CountryName":"Italy","Year":"2010","Value":"391992.33"},{"Region":"388","CountryName":"Jamaica","Year":"2010","Value":"6930.89"},{"Region":"392","CountryName":"Japan","Year":"2010","Value":"1127152.038"},{"Region":"400","CountryName":"Jordan","Year":"2010","Value":"18801.144"},{"Region":"398","CountryName":"Kazakhstan","Year":"2010","Value":"221101.402"},{"Region":"404","CountryName":"Kenya","Year":"2010","Value":"11209.779"},{"Region":"412","CountryName":"Kosovo","Year":"2010","Value":"8695.947"},{"Region":"414","CountryName":"Kuwait","Year":"2010","Value":"77004.456"},{"Region":"417","CountryName":"Kyrgyzstan","Year":"2010","Value":"6040.358"},{"Region":"428","CountryName":"Latvia","Year":"2010","Value":"8087.541"},{"Region":"422","CountryName":"Lebanon","Year":"2010","Value":"18293.3"},{"Region":"434","CountryName":"Libya","Year":"2010","Value":"48181.967"},{"Region":"440","CountryName":"Lithuania","Year":"2010","Value":"12314.715"},{"Region":"442","CountryName":"Luxembourg","Year":"2010","Value":"10664.187"},{"Region":"458","CountryName":"Malaysia","Year":"2010","Value":"189860.901"},{"Region":"470","CountryName":"Malta","Year":"2010","Value":"2580.576"},{"Region":"480","CountryName":"Mauritania","Year":"2010","Value":"3662.144"},{"Region":"484","CountryName":"Mexico","Year":"2010","Value":"440460.336"},{"Region":"496","CountryName":"Mongolia","Year":"2010","Value":"14139.533"},{"Region":"499","CountryName":"Montenegro","Year":"2010","Value":"2584.208"},{"Region":"504","CountryName":"Morocco","Year":"2010","Value":"46396.882"},{"Region":"508","CountryName":"Mozambique","Year":"2010","Value":"2377.492"},{"Region":"104","CountryName":"Myanmar","Year":"2010","Value":"7906.445"},{"Region":"516","CountryName":"Namibia","Year":"2010","Value":"3078.895"},{"Region":"524","CountryName":"Nepal","Year":"2010","Value":"4121.846"},{"Region":"528","CountryName":"Netherlands","Year":"2010","Value":"170762.343"},{"Region":"554","CountryName":"New Zealand","Year":"2010","Value":"30347.958"},{"Region":"558","CountryName":"Nicaragua","Year":"2010","Value":"4277.15"},{"Region":"562","CountryName":"Niger","Year":"2010","Value":"1358.855"},{"Region":"566","CountryName":"Nigeria","Year":"2010","Value":"55417.965"},{"Region":"578","CountryName":"Norway","Year":"2010","Value":"37291.15"},{"Region":"512","CountryName":"Oman","Year":"2010","Value":"42367.74"},{"Region":"586","CountryName":"Pakistan","Year":"2010","Value":"129168.625"},{"Region":"591","CountryName":"Panama","Year":"2010","Value":"8878.513"},{"Region":"600","CountryName":"Paraguay","Year":"2010","Value":"4791.954"},{"Region":"604","CountryName":"Peru","Year":"2010","Value":"41544.007"},{"Region":"608","CountryName":"Philippines","Year":"2010","Value":"77128.398"},{"Region":"616","CountryName":"Poland","Year":"2010","Value":"307493.273"},{"Region":"620","CountryName":"Portugal","Year":"2010","Value":"47561.335"},{"Region":"634","CountryName":"Qatar","Year":"2010","Value":"55503.424"},{"Region":"410","CountryName":"South Korea","Year":"2010","Value":"550915.653"},{"Region":"498","CountryName":"Republic of Moldova","Year":"2010","Value":"7946.552"},{"Region":"642","CountryName":"Romania","Year":"2010","Value":"74725.473"},{"Region":"643","CountryName":"Russia","Year":"2010","Value":"1529228.168"},{"Region":"682","CountryName":"Saudi Arabia","Year":"2010","Value":"419163.541"},{"Region":"686","CountryName":"Senegal","Year":"2010","Value":"5460.983"},{"Region":"688","CountryName":"Serbia","Year":"2010","Value":"45610.19"},{"Region":"702","CountryName":"Singapore","Year":"2010","Value":"42413.616"},{"Region":"703","CountryName":"Slovakia","Year":"2010","Value":"34572.279"},{"Region":"705","CountryName":"Slovenia","Year":"2010","Value":"15446.955"},{"Region":"710","CountryName":"South Africa","Year":"2010","Value":"418800.964"},{"Region":"724","CountryName":"Spain","Year":"2010","Value":"262054.512"},{"Region":"144","CountryName":"Sri Lanka","Year":"2010","Value":"12408.76"},{"Region":"729","CountryName":"Sudan","Year":"2010","Value":"15122.702"},{"Region":"740","CountryName":"Suriname","Year":"2010","Value":"1695.676"},{"Region":"752","CountryName":"Sweden","Year":"2010","Value":"46062.647"},{"Region":"756","CountryName":"Switzerland","Year":"2010","Value":"43257.966"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"2010","Value":"57270.529"},{"Region":"762","CountryName":"Tajikistan","Year":"2010","Value":"2302.905"},{"Region":"764","CountryName":"Thailand","Year":"2010","Value":"223418.643"},{"Region":"807","CountryName":"North Macedonia","Year":"2010","Value":"8319.696"},{"Region":"768","CountryName":"Togo","Year":"2010","Value":"2076.229"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"2010","Value":"21849.145"},{"Region":"788","CountryName":"Tunisia","Year":"2010","Value":"23293.569"},{"Region":"792","CountryName":"Turkey","Year":"2010","Value":"267846.219"},{"Region":"795","CountryName":"Turkmenistan","Year":"2010","Value":"56919.769"},{"Region":"804","CountryName":"Ukraine","Year":"2010","Value":"266580.685"},{"Region":"784","CountryName":"United Arab Emirates","Year":"2010","Value":"154590.032"},{"Region":"826","CountryName":"United Kingdom","Year":"2010","Value":"476626.011"},{"Region":"834","CountryName":"Tanzania","Year":"2010","Value":"6216.798"},{"Region":"840","CountryName":"United States of America","Year":"2010","Value":"5352120.423"},{"Region":"858","CountryName":"Uruguay","Year":"2010","Value":"5959.638"},{"Region":"860","CountryName":"Uzbekistan","Year":"2010","Value":"100562.513"},{"Region":"862","CountryName":"Venezuela","Year":"2010","Value":"171468.892"},{"Region":"704","CountryName":"Vietnam","Year":"2010","Value":"126659.264"},{"Region":"887","CountryName":"Yemen","Year":"2010","Value":"22388.934"},{"Region":"894","CountryName":"Zambia","Year":"2010","Value":"1636.973"},{"Region":"716","CountryName":"Zimbabwe","Year":"2010","Value":"9464.714"}]},{"date":"2015","countryList":[{"Region":"8","CountryName":"Albania","Year":"2015","Value":"3824.801"},{"Region":"12","CountryName":"Algeria","Year":"2015","Value":"130426.655"},{"Region":"24","CountryName":"Angola","Year":"2015","Value":"21532.32"},{"Region":"32","CountryName":"Argentina","Year":"2015","Value":"190384.899"},{"Region":"51","CountryName":"Armenia","Year":"2015","Value":"4702.13"},{"Region":"36","CountryName":"Australia","Year":"2015","Value":"373846.773"},{"Region":"40","CountryName":"Austria","Year":"2015","Value":"62221.17"},{"Region":"31","CountryName":"Azerbaijan","Year":"2015","Value":"30806.159"},{"Region":"48","CountryName":"Bahrain","Year":"2015","Value":"30072.802"},{"Region":"50","CountryName":"Bangladesh","Year":"2015","Value":"70895.346"},{"Region":"112","CountryName":"Belarus","Year":"2015","Value":"52618.265"},{"Region":"56","CountryName":"Belgium","Year":"2015","Value":"92789.797"},{"Region":"204","CountryName":"Benin","Year":"2015","Value":"5261.645"},{"Region":"68","CountryName":"Bolivia","Year":"2015","Value":"18099.998"},{"Region":"70","CountryName":"Bosnia and Herzegovina","Year":"2015","Value":"19306.465"},{"Region":"72","CountryName":"Botswana","Year":"2015","Value":"7068.888"},{"Region":"76","CountryName":"Brazil","Year":"2015","Value":"453633.529"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"2015","Value":"5977.692"},{"Region":"100","CountryName":"Bulgaria","Year":"2015","Value":"43715.357"},{"Region":"116","CountryName":"Cambodia","Year":"2015","Value":"8011.977"},{"Region":"120","CountryName":"Cameroon","Year":"2015","Value":"5944.767"},{"Region":"124","CountryName":"Canada","Year":"2015","Value":"557660.685"},{"Region":"152","CountryName":"Chile","Year":"2015","Value":"81092.176"},{"Region":"156","CountryName":"China","Year":"2015","Value":"9101375.985"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"2015","Value":"43917.31"},{"Region":"170","CountryName":"Colombia","Year":"2015","Value":"77609.792"},{"Region":"178","CountryName":"Congo","Year":"2015","Value":"3164.794"},{"Region":"188","CountryName":"Costa Rica","Year":"2015","Value":"6940.23"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"2015","Value":"9543.523"},{"Region":"191","CountryName":"Croatia","Year":"2015","Value":"15512.642"},{"Region":"192","CountryName":"Cuba","Year":"2015","Value":"26841.68"},{"Region":"531","CountryName":"Curaçao","Year":"2015","Value":"4691.214"},{"Region":"196","CountryName":"Cyprus","Year":"2015","Value":"5900.866"},{"Region":"203","CountryName":"Czechia","Year":"2015","Value":"99424.53"},{"Region":"408","CountryName":"North Korea","Year":"2015","Value":"22545.503"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"2015","Value":"2734.926"},{"Region":"208","CountryName":"Denmark","Year":"2015","Value":"31948.409"},{"Region":"214","CountryName":"Dominican Republic","Year":"2015","Value":"21519.849"},{"Region":"218","CountryName":"Ecuador","Year":"2015","Value":"37357.272"},{"Region":"818","CountryName":"Egypt","Year":"2015","Value":"199544.529"},{"Region":"222","CountryName":"El Salvador","Year":"2015","Value":"6389.271"},{"Region":"232","CountryName":"Eritrea","Year":"2015","Value":"590.108"},{"Region":"233","CountryName":"Estonia","Year":"2015","Value":"15147.858"},{"Region":"231","CountryName":"Ethiopia","Year":"2015","Value":"10059.891"},{"Region":"246","CountryName":"Finland","Year":"2015","Value":"42365.643"},{"Region":"250","CountryName":"France","Year":"2015","Value":"299640.583"},{"Region":"266","CountryName":"Gabon","Year":"2015","Value":"3252.522"},{"Region":"268","CountryName":"Georgia","Year":"2015","Value":"8383.116"},{"Region":"276","CountryName":"Germany","Year":"2015","Value":"729684.098"},{"Region":"288","CountryName":"Ghana","Year":"2015","Value":"14088.758"},{"Region":"292","CountryName":"Gibraltar","Year":"2015","Value":"589.619"},{"Region":"300","CountryName":"Greece","Year":"2015","Value":"64543.218"},{"Region":"320","CountryName":"Guatemala","Year":"2015","Value":"15164.376"},{"Region":"332","CountryName":"Haiti","Year":"2015","Value":"3208.933"},{"Region":"340","CountryName":"Honduras","Year":"2015","Value":"9558.552"},{"Region":"348","CountryName":"Hungary","Year":"2015","Value":"42708.351"},{"Region":"352","CountryName":"Iceland","Year":"2015","Value":"2057.458"},{"Region":"356","CountryName":"India","Year":"2015","Value":"2026704.698"},{"Region":"360","CountryName":"Indonesia","Year":"2015","Value":"459139.082"},{"Region":"364","CountryName":"Iran","Year":"2015","Value":"553300.897"},{"Region":"368","CountryName":"Iraq","Year":"2015","Value":"130762.392"},{"Region":"372","CountryName":"Ireland","Year":"2015","Value":"35342.128"},{"Region":"376","CountryName":"Israel","Year":"2015","Value":"63927.754"},{"Region":"380","CountryName":"Italy","Year":"2015","Value":"329662.257"},{"Region":"388","CountryName":"Jamaica","Year":"2015","Value":"6992.686"},{"Region":"392","CountryName":"Japan","Year":"2015","Value":"1155666.505"},{"Region":"400","CountryName":"Jordan","Year":"2015","Value":"23785.053"},{"Region":"398","CountryName":"Kazakhstan","Year":"2015","Value":"245762.673"},{"Region":"404","CountryName":"Kenya","Year":"2015","Value":"14721.841"},{"Region":"412","CountryName":"Kosovo","Year":"2015","Value":"8605.689"},{"Region":"414","CountryName":"Kuwait","Year":"2015","Value":"91638.915"},{"Region":"417","CountryName":"Kyrgyzstan","Year":"2015","Value":"9896.806"},{"Region":"428","CountryName":"Latvia","Year":"2015","Value":"6845.608"},{"Region":"422","CountryName":"Lebanon","Year":"2015","Value":"24619.15"},{"Region":"434","CountryName":"Libya","Year":"2015","Value":"42725.711"},{"Region":"440","CountryName":"Lithuania","Year":"2015","Value":"10550.273"},{"Region":"442","CountryName":"Luxembourg","Year":"2015","Value":"8804.662"},{"Region":"458","CountryName":"Malaysia","Year":"2015","Value":"220437.513"},{"Region":"470","CountryName":"Malta","Year":"2015","Value":"1648.9"},{"Region":"480","CountryName":"Mauritania","Year":"2015","Value":"3967.535"},{"Region":"484","CountryName":"Mexico","Year":"2015","Value":"442417.19"},{"Region":"496","CountryName":"Mongolia","Year":"2015","Value":"17118.652"},{"Region":"499","CountryName":"Montenegro","Year":"2015","Value":"2358.285"},{"Region":"504","CountryName":"Morocco","Year":"2015","Value":"55371.267"},{"Region":"508","CountryName":"Mozambique","Year":"2015","Value":"6221.087"},{"Region":"104","CountryName":"Myanmar","Year":"2015","Value":"18671.324"},{"Region":"516","CountryName":"Namibia","Year":"2015","Value":"3858.399"},{"Region":"524","CountryName":"Nepal","Year":"2015","Value":"5694.237"},{"Region":"528","CountryName":"Netherlands","Year":"2015","Value":"157858.417"},{"Region":"554","CountryName":"New Zealand","Year":"2015","Value":"31258.942"},{"Region":"558","CountryName":"Nicaragua","Year":"2015","Value":"5054.947"},{"Region":"562","CountryName":"Niger","Year":"2015","Value":"1953.955"},{"Region":"566","CountryName":"Nigeria","Year":"2015","Value":"82588.782"},{"Region":"578","CountryName":"Norway","Year":"2015","Value":"35890.983"},{"Region":"512","CountryName":"Oman","Year":"2015","Value":"63636.288"},{"Region":"586","CountryName":"Pakistan","Year":"2015","Value":"150688.547"},{"Region":"591","CountryName":"Panama","Year":"2015","Value":"10102.101"},{"Region":"600","CountryName":"Paraguay","Year":"2015","Value":"5849.183"},{"Region":"604","CountryName":"Peru","Year":"2015","Value":"49724.806"},{"Region":"608","CountryName":"Philippines","Year":"2015","Value":"103891.197"},{"Region":"616","CountryName":"Poland","Year":"2015","Value":"282708.42"},{"Region":"620","CountryName":"Portugal","Year":"2015","Value":"46930.899"},{"Region":"634","CountryName":"Qatar","Year":"2015","Value":"77645.489"},{"Region":"410","CountryName":"South Korea","Year":"2015","Value":"582047.107"},{"Region":"498","CountryName":"Republic of Moldova","Year":"2015","Value":"7578.52"},{"Region":"642","CountryName":"Romania","Year":"2015","Value":"69558.57"},{"Region":"643","CountryName":"Russia","Year":"2015","Value":"1534458.233"},{"Region":"682","CountryName":"Saudi Arabia","Year":"2015","Value":"531554.326"},{"Region":"686","CountryName":"Senegal","Year":"2015","Value":"7516.857"},{"Region":"688","CountryName":"Serbia","Year":"2015","Value":"44459.955"},{"Region":"702","CountryName":"Singapore","Year":"2015","Value":"45496.01"},{"Region":"703","CountryName":"Slovakia","Year":"2015","Value":"29444.719"},{"Region":"705","CountryName":"Slovenia","Year":"2015","Value":"12805.132"},{"Region":"710","CountryName":"South Africa","Year":"2015","Value":"418258.797"},{"Region":"728","CountryName":"S. Sudan","Year":"2015","Value":"2001.328"},{"Region":"724","CountryName":"Spain","Year":"2015","Value":"247067.141"},{"Region":"144","CountryName":"Sri Lanka","Year":"2015","Value":"19489.878"},{"Region":"729","CountryName":"Sudan","Year":"2015","Value":"16354.488"},{"Region":"740","CountryName":"Suriname","Year":"2015","Value":"2063.356"},{"Region":"752","CountryName":"Sweden","Year":"2015","Value":"37112.379"},{"Region":"756","CountryName":"Switzerland","Year":"2015","Value":"37323.113"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"2015","Value":"23872.123"},{"Region":"762","CountryName":"Tajikistan","Year":"2015","Value":"4211.795"},{"Region":"764","CountryName":"Thailand","Year":"2015","Value":"248039.678"},{"Region":"807","CountryName":"North Macedonia","Year":"2015","Value":"7133.668"},{"Region":"768","CountryName":"Togo","Year":"2015","Value":"1906.291"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"2015","Value":"21280.034"},{"Region":"788","CountryName":"Tunisia","Year":"2015","Value":"25614.897"},{"Region":"792","CountryName":"Turkey","Year":"2015","Value":"318973.757"},{"Region":"795","CountryName":"Turkmenistan","Year":"2015","Value":"69105.29"},{"Region":"804","CountryName":"Ukraine","Year":"2015","Value":"187590.314"},{"Region":"784","CountryName":"United Arab Emirates","Year":"2015","Value":"186575.572"},{"Region":"826","CountryName":"United Kingdom","Year":"2015","Value":"394115.172"},{"Region":"834","CountryName":"Tanzania","Year":"2015","Value":"10472.963"},{"Region":"840","CountryName":"United States of America","Year":"2015","Value":"4928610.664"},{"Region":"858","CountryName":"Uruguay","Year":"2015","Value":"6374.932"},{"Region":"860","CountryName":"Uzbekistan","Year":"2015","Value":"92161.645"},{"Region":"862","CountryName":"Venezuela","Year":"2015","Value":"140538.724"},{"Region":"704","CountryName":"Vietnam","Year":"2015","Value":"182588.799"},{"Region":"887","CountryName":"Yemen","Year":"2015","Value":"11662.059"},{"Region":"894","CountryName":"Zambia","Year":"2015","Value":"3475.653"},{"Region":"716","CountryName":"Zimbabwe","Year":"2015","Value":"11822.362"}]},{"date":"2016","countryList":[{"Region":"8","CountryName":"Albania","Year":"2016","Value":"3674.183"},{"Region":"12","CountryName":"Algeria","Year":"2016","Value":"127640.064"},{"Region":"24","CountryName":"Angola","Year":"2016","Value":"21458.342"},{"Region":"32","CountryName":"Argentina","Year":"2016","Value":"190512.04"},{"Region":"51","CountryName":"Armenia","Year":"2016","Value":"4833.071"},{"Region":"36","CountryName":"Australia","Year":"2016","Value":"381878.629"},{"Region":"40","CountryName":"Austria","Year":"2016","Value":"62048.731"},{"Region":"31","CountryName":"Azerbaijan","Year":"2016","Value":"31409.359"},{"Region":"48","CountryName":"Bahrain","Year":"2016","Value":"29638.922"},{"Region":"50","CountryName":"Bangladesh","Year":"2016","Value":"72943.639"},{"Region":"112","CountryName":"Belarus","Year":"2016","Value":"53062.826"},{"Region":"56","CountryName":"Belgium","Year":"2016","Value":"91932.287"},{"Region":"204","CountryName":"Benin","Year":"2016","Value":"6602.646"},{"Region":"68","CountryName":"Bolivia","Year":"2016","Value":"20126.218"},{"Region":"70","CountryName":"Bosnia and Herzegovina","Year":"2016","Value":"22019.403"},{"Region":"72","CountryName":"Botswana","Year":"2016","Value":"6979.639"},{"Region":"76","CountryName":"Brazil","Year":"2016","Value":"418523.728"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"2016","Value":"6411.543"},{"Region":"100","CountryName":"Bulgaria","Year":"2016","Value":"40548.756"},{"Region":"116","CountryName":"Cambodia","Year":"2016","Value":"9287.497"},{"Region":"120","CountryName":"Cameroon","Year":"2016","Value":"6103.656"},{"Region":"124","CountryName":"Canada","Year":"2016","Value":"548095.275"},{"Region":"152","CountryName":"Chile","Year":"2016","Value":"85245.52"},{"Region":"156","CountryName":"China","Year":"2016","Value":"9064428.642"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"2016","Value":"44728.626"},{"Region":"170","CountryName":"Colombia","Year":"2016","Value":"87720.859"},{"Region":"178","CountryName":"Congo","Year":"2016","Value":"2978.36"},{"Region":"188","CountryName":"Costa Rica","Year":"2016","Value":"7488.019"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"2016","Value":"9586.785"},{"Region":"191","CountryName":"Croatia","Year":"2016","Value":"15858.564"},{"Region":"192","CountryName":"Cuba","Year":"2016","Value":"27791.025"},{"Region":"531","CountryName":"Curaçao","Year":"2016","Value":"4150.776"},{"Region":"196","CountryName":"Cyprus","Year":"2016","Value":"6269.2"},{"Region":"203","CountryName":"Czechia","Year":"2016","Value":"101157.395"},{"Region":"408","CountryName":"North Korea","Year":"2016","Value":"25426.726"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"2016","Value":"1979.013"},{"Region":"208","CountryName":"Denmark","Year":"2016","Value":"33486.945"},{"Region":"214","CountryName":"Dominican Republic","Year":"2016","Value":"22534.306"},{"Region":"218","CountryName":"Ecuador","Year":"2016","Value":"35393.138"},{"Region":"818","CountryName":"Egypt","Year":"2016","Value":"204112.697"},{"Region":"222","CountryName":"El Salvador","Year":"2016","Value":"6372.143"},{"Region":"232","CountryName":"Eritrea","Year":"2016","Value":"599.637"},{"Region":"233","CountryName":"Estonia","Year":"2016","Value":"15460.878"},{"Region":"231","CountryName":"Ethiopia","Year":"2016","Value":"11843.085"},{"Region":"246","CountryName":"Finland","Year":"2016","Value":"45127.234"},{"Region":"250","CountryName":"France","Year":"2016","Value":"301695.852"},{"Region":"266","CountryName":"Gabon","Year":"2016","Value":"3357.483"},{"Region":"268","CountryName":"Georgia","Year":"2016","Value":"8809.005"},{"Region":"276","CountryName":"Germany","Year":"2016","Value":"734487.052"},{"Region":"288","CountryName":"Ghana","Year":"2016","Value":"12967.698"},{"Region":"292","CountryName":"Gibraltar","Year":"2016","Value":"645.692"},{"Region":"300","CountryName":"Greece","Year":"2016","Value":"63076.623"},{"Region":"320","CountryName":"Guatemala","Year":"2016","Value":"16261.135"},{"Region":"332","CountryName":"Haiti","Year":"2016","Value":"3250.079"},{"Region":"340","CountryName":"Honduras","Year":"2016","Value":"9132.171"},{"Region":"348","CountryName":"Hungary","Year":"2016","Value":"43777.954"},{"Region":"352","CountryName":"Iceland","Year":"2016","Value":"2064.863"},{"Region":"356","CountryName":"India","Year":"2016","Value":"2057682.254"},{"Region":"360","CountryName":"Indonesia","Year":"2016","Value":"454267.119"},{"Region":"364","CountryName":"Iran","Year":"2016","Value":"554410.488"},{"Region":"368","CountryName":"Iraq","Year":"2016","Value":"140337.13"},{"Region":"372","CountryName":"Ireland","Year":"2016","Value":"36863.114"},{"Region":"376","CountryName":"Israel","Year":"2016","Value":"63082.005"},{"Region":"380","CountryName":"Italy","Year":"2016","Value":"325657.168"},{"Region":"388","CountryName":"Jamaica","Year":"2016","Value":"7524.926"},{"Region":"392","CountryName":"Japan","Year":"2016","Value":"1146887.524"},{"Region":"400","CountryName":"Jordan","Year":"2016","Value":"23834.961"},{"Region":"398","CountryName":"Kazakhstan","Year":"2016","Value":"254927.792"},{"Region":"404","CountryName":"Kenya","Year":"2016","Value":"16266.163"},{"Region":"412","CountryName":"Kosovo","Year":"2016","Value":"9080.385"},{"Region":"414","CountryName":"Kuwait","Year":"2016","Value":"93178.766"},{"Region":"417","CountryName":"Kyrgyzstan","Year":"2016","Value":"9298.993"},{"Region":"428","CountryName":"Latvia","Year":"2016","Value":"6799.011"},{"Region":"422","CountryName":"Lebanon","Year":"2016","Value":"25460.51"},{"Region":"434","CountryName":"Libya","Year":"2016","Value":"41056.051"},{"Region":"440","CountryName":"Lithuania","Year":"2016","Value":"10750.005"},{"Region":"442","CountryName":"Luxembourg","Year":"2016","Value":"8501.982"},{"Region":"458","CountryName":"Malaysia","Year":"2016","Value":"216236.083"},{"Region":"470","CountryName":"Malta","Year":"2016","Value":"1354.078"},{"Region":"480","CountryName":"Mauritania","Year":"2016","Value":"4042.202"},{"Region":"484","CountryName":"Mexico","Year":"2016","Value":"446175.879"},{"Region":"496","CountryName":"Mongolia","Year":"2016","Value":"17981.117"},{"Region":"499","CountryName":"Montenegro","Year":"2016","Value":"2112.994"},{"Region":"504","CountryName":"Morocco","Year":"2016","Value":"55299.726"},{"Region":"508","CountryName":"Mozambique","Year":"2016","Value":"8445.417"},{"Region":"104","CountryName":"Myanmar","Year":"2016","Value":"20899.074"},{"Region":"516","CountryName":"Namibia","Year":"2016","Value":"3983.156"},{"Region":"524","CountryName":"Nepal","Year":"2016","Value":"8503.721"},{"Region":"528","CountryName":"Netherlands","Year":"2016","Value":"158034.178"},{"Region":"554","CountryName":"New Zealand","Year":"2016","Value":"30434.542"},{"Region":"558","CountryName":"Nicaragua","Year":"2016","Value":"5112.604"},{"Region":"562","CountryName":"Niger","Year":"2016","Value":"1951.763"},{"Region":"566","CountryName":"Nigeria","Year":"2016","Value":"84738.062"},{"Region":"578","CountryName":"Norway","Year":"2016","Value":"35281.342"},{"Region":"512","CountryName":"Oman","Year":"2016","Value":"63137.552"},{"Region":"586","CountryName":"Pakistan","Year":"2016","Value":"164184.363"},{"Region":"591","CountryName":"Panama","Year":"2016","Value":"10191.378"},{"Region":"600","CountryName":"Paraguay","Year":"2016","Value":"6803.062"},{"Region":"604","CountryName":"Peru","Year":"2016","Value":"52186.698"},{"Region":"608","CountryName":"Philippines","Year":"2016","Value":"114751.784"},{"Region":"616","CountryName":"Poland","Year":"2016","Value":"293211.41"},{"Region":"620","CountryName":"Portugal","Year":"2016","Value":"46422.53"},{"Region":"634","CountryName":"Qatar","Year":"2016","Value":"79084.102"},{"Region":"410","CountryName":"South Korea","Year":"2016","Value":"589212.169"},{"Region":"498","CountryName":"Republic of Moldova","Year":"2016","Value":"7710.688"},{"Region":"642","CountryName":"Romania","Year":"2016","Value":"67962.637"},{"Region":"643","CountryName":"Russia","Year":"2016","Value":"1510557.598"},{"Region":"682","CountryName":"Saudi Arabia","Year":"2016","Value":"526887.374"},{"Region":"686","CountryName":"Senegal","Year":"2016","Value":"8159.977"},{"Region":"688","CountryName":"Serbia","Year":"2016","Value":"45474.363"},{"Region":"702","CountryName":"Singapore","Year":"2016","Value":"46065.234"},{"Region":"703","CountryName":"Slovakia","Year":"2016","Value":"30159.706"},{"Region":"705","CountryName":"Slovenia","Year":"2016","Value":"13585.628"},{"Region":"710","CountryName":"South Africa","Year":"2016","Value":"418658.117"},{"Region":"728","CountryName":"S. Sudan","Year":"2016","Value":"1765.239"},{"Region":"724","CountryName":"Spain","Year":"2016","Value":"237400.337"},{"Region":"144","CountryName":"Sri Lanka","Year":"2016","Value":"20898.562"},{"Region":"729","CountryName":"Sudan","Year":"2016","Value":"18922.66"},{"Region":"740","CountryName":"Suriname","Year":"2016","Value":"1909.88"},{"Region":"752","CountryName":"Sweden","Year":"2016","Value":"37989.269"},{"Region":"756","CountryName":"Switzerland","Year":"2016","Value":"37851.822"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"2016","Value":"23086.043"},{"Region":"762","CountryName":"Tajikistan","Year":"2016","Value":"5428.489"},{"Region":"764","CountryName":"Thailand","Year":"2016","Value":"244124.879"},{"Region":"807","CountryName":"North Macedonia","Year":"2016","Value":"6947.674"},{"Region":"768","CountryName":"Togo","Year":"2016","Value":"1997.993"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"2016","Value":"17457.045"},{"Region":"788","CountryName":"Tunisia","Year":"2016","Value":"25212.344"},{"Region":"792","CountryName":"Turkey","Year":"2016","Value":"338874.454"},{"Region":"795","CountryName":"Turkmenistan","Year":"2016","Value":"68972.285"},{"Region":"804","CountryName":"Ukraine","Year":"2016","Value":"197626.378"},{"Region":"784","CountryName":"United Arab Emirates","Year":"2016","Value":"192070.738"},{"Region":"826","CountryName":"United Kingdom","Year":"2016","Value":"372557.789"},{"Region":"834","CountryName":"Tanzania","Year":"2016","Value":"9676.776"},{"Region":"840","CountryName":"United States of America","Year":"2016","Value":"4838476.243"},{"Region":"858","CountryName":"Uruguay","Year":"2016","Value":"6325.631"},{"Region":"860","CountryName":"Uzbekistan","Year":"2016","Value":"81343.275"},{"Region":"862","CountryName":"Venezuela","Year":"2016","Value":"127366.139"},{"Region":"704","CountryName":"Vietnam","Year":"2016","Value":"193611.788"},{"Region":"887","CountryName":"Yemen","Year":"2016","Value":"9389.446"},{"Region":"894","CountryName":"Zambia","Year":"2016","Value":"3731.899"},{"Region":"716","CountryName":"Zimbabwe","Year":"2016","Value":"10368.9"}]},{"date":"2017","countryList":[{"Region":"8","CountryName":"Albania","Year":"2017","Value":"4342.011"},{"Region":"12","CountryName":"Algeria","Year":"2017","Value":"130493.653"},{"Region":"24","CountryName":"Angola","Year":"2017","Value":"18021.394"},{"Region":"32","CountryName":"Argentina","Year":"2017","Value":"183375.203"},{"Region":"51","CountryName":"Armenia","Year":"2017","Value":"5165.593"},{"Region":"36","CountryName":"Australia","Year":"2017","Value":"384583.857"},{"Region":"40","CountryName":"Austria","Year":"2017","Value":"64872.394"},{"Region":"31","CountryName":"Azerbaijan","Year":"2017","Value":"30805.851"},{"Region":"48","CountryName":"Bahrain","Year":"2017","Value":"29813.834"},{"Region":"50","CountryName":"Bangladesh","Year":"2017","Value":"78270.17"},{"Region":"112","CountryName":"Belarus","Year":"2017","Value":"54070.453"},{"Region":"56","CountryName":"Belgium","Year":"2017","Value":"90368.188"},{"Region":"204","CountryName":"Benin","Year":"2017","Value":"6763.074"},{"Region":"68","CountryName":"Bolivia","Year":"2017","Value":"21899.18"},{"Region":"70","CountryName":"Bosnia and Herzegovina","Year":"2017","Value":"22327.978"},{"Region":"72","CountryName":"Botswana","Year":"2017","Value":"7717.409"},{"Region":"76","CountryName":"Brazil","Year":"2017","Value":"427632.717"},{"Region":"96","CountryName":"Brunei Darussalam","Year":"2017","Value":"6710.178"},{"Region":"100","CountryName":"Bulgaria","Year":"2017","Value":"42819.932"},{"Region":"116","CountryName":"Cambodia","Year":"2017","Value":"10762.923"},{"Region":"120","CountryName":"Cameroon","Year":"2017","Value":"6152.919"},{"Region":"124","CountryName":"Canada","Year":"2017","Value":"547798.641"},{"Region":"152","CountryName":"Chile","Year":"2017","Value":"86087.14"},{"Region":"156","CountryName":"China","Year":"2017","Value":"9257933.9"},{"Region":"344","CountryName":"China, Hong Kong SAR","Year":"2017","Value":"44034.675"},{"Region":"170","CountryName":"Colombia","Year":"2017","Value":"75291.911"},{"Region":"178","CountryName":"Congo","Year":"2017","Value":"2847.335"},{"Region":"188","CountryName":"Costa Rica","Year":"2017","Value":"7584.411"},{"Region":"384","CountryName":"Côte d’Ivoire","Year":"2017","Value":"10234.205"},{"Region":"191","CountryName":"Croatia","Year":"2017","Value":"16193.172"},{"Region":"192","CountryName":"Cuba","Year":"2017","Value":"26215.665"},{"Region":"531","CountryName":"Curaçao","Year":"2017","Value":"3748.132"},{"Region":"196","CountryName":"Cyprus","Year":"2017","Value":"6367.874"},{"Region":"203","CountryName":"Czechia","Year":"2017","Value":"101682.752"},{"Region":"408","CountryName":"North Korea","Year":"2017","Value":"19579.698"},{"Region":"180","CountryName":"Dem. Rep. Congo","Year":"2017","Value":"2201.742"},{"Region":"208","CountryName":"Denmark","Year":"2017","Value":"31263.57"},{"Region":"214","CountryName":"Dominican Republic","Year":"2017","Value":"21430.38"},{"Region":"218","CountryName":"Ecuador","Year":"2017","Value":"34299.317"},{"Region":"818","CountryName":"Egypt","Year":"2017","Value":"209219.059"},{"Region":"222","CountryName":"El Salvador","Year":"2017","Value":"5735.668"},{"Region":"232","CountryName":"Eritrea","Year":"2017","Value":"632.105"},{"Region":"233","CountryName":"Estonia","Year":"2017","Value":"15972.029"},{"Region":"231","CountryName":"Ethiopia","Year":"2017","Value":"13059.815"},{"Region":"246","CountryName":"Finland","Year":"2017","Value":"42598.175"},{"Region":"250","CountryName":"France","Year":"2017","Value":"306123.541"},{"Region":"266","CountryName":"Gabon","Year":"2017","Value":"3367.911"},{"Region":"268","CountryName":"Georgia","Year":"2017","Value":"8720.3"},{"Region":"276","CountryName":"Germany","Year":"2017","Value":"718794.085"},{"Region":"288","CountryName":"Ghana","Year":"2017","Value":"13779.635"},{"Region":"292","CountryName":"Gibraltar","Year":"2017","Value":"703.9"},{"Region":"300","CountryName":"Greece","Year":"2017","Value":"63213.31"},{"Region":"320","CountryName":"Guatemala","Year":"2017","Value":"15703.161"},{"Region":"332","CountryName":"Haiti","Year":"2017","Value":"3293.125"},{"Region":"340","CountryName":"Honduras","Year":"2017","Value":"9426.74"},{"Region":"348","CountryName":"Hungary","Year":"2017","Value":"45783.636"},{"Region":"352","CountryName":"Iceland","Year":"2017","Value":"2173.307"},{"Region":"356","CountryName":"India","Year":"2017","Value":"2161567.072"},{"Region":"360","CountryName":"Indonesia","Year":"2017","Value":"496406.275"},{"Region":"364","CountryName":"Iran","Year":"2017","Value":"567123.294"},{"Region":"368","CountryName":"Iraq","Year":"2017","Value":"139877.659"},{"Region":"372","CountryName":"Ireland","Year":"2017","Value":"35720.302"},{"Region":"376","CountryName":"Israel","Year":"2017","Value":"63766.189"},{"Region":"380","CountryName":"Italy","Year":"2017","Value":"321481.224"},{"Region":"388","CountryName":"Jamaica","Year":"2017","Value":"6971.666"},{"Region":"392","CountryName":"Japan","Year":"2017","Value":"1132435.4"},{"Region":"400","CountryName":"Jordan","Year":"2017","Value":"25550.14"},{"Region":"398","CountryName":"Kazakhstan","Year":"2017","Value":"255767.646"},{"Region":"404","CountryName":"Kenya","Year":"2017","Value":"16264.973"},{"Region":"412","CountryName":"Kosovo","Year":"2017","Value":"8168.55"},{"Region":"414","CountryName":"Kuwait","Year":"2017","Value":"89420.615"},{"Region":"417","CountryName":"Kyrgyzstan","Year":"2017","Value":"8909.263"},{"Region":"428","CountryName":"Latvia","Year":"2017","Value":"6679.644"},{"Region":"422","CountryName":"Lebanon","Year":"2017","Value":"26931.044"},{"Region":"434","CountryName":"Libya","Year":"2017","Value":"41528.35"},{"Region":"440","CountryName":"Lithuania","Year":"2017","Value":"10811.096"},{"Region":"442","CountryName":"Luxembourg","Year":"2017","Value":"8631.187"},{"Region":"458","CountryName":"Malaysia","Year":"2017","Value":"211046.967"},{"Region":"470","CountryName":"Malta","Year":"2017","Value":"1516.276"},{"Region":"480","CountryName":"Mauritania","Year":"2017","Value":"4182.138"},{"Region":"484","CountryName":"Mexico","Year":"2017","Value":"445991.937"},{"Region":"496","CountryName":"Mongolia","Year":"2017","Value":"19276"},{"Region":"499","CountryName":"Montenegro","Year":"2017","Value":"2206.233"},{"Region":"504","CountryName":"Morocco","Year":"2017","Value":"58149.86"},{"Region":"508","CountryName":"Mozambique","Year":"2017","Value":"7624.932"},{"Region":"104","CountryName":"Myanmar","Year":"2017","Value":"30404.919"},{"Region":"516","CountryName":"Namibia","Year":"2017","Value":"4037.15"},{"Region":"524","CountryName":"Nepal","Year":"2017","Value":"10113.953"},{"Region":"528","CountryName":"Netherlands","Year":"2017","Value":"155574.278"},{"Region":"554","CountryName":"New Zealand","Year":"2017","Value":"32241.597"},{"Region":"558","CountryName":"Nicaragua","Year":"2017","Value":"5106.281"},{"Region":"562","CountryName":"Niger","Year":"2017","Value":"2048.704"},{"Region":"566","CountryName":"Nigeria","Year":"2017","Value":"85988.513"},{"Region":"578","CountryName":"Norway","Year":"2017","Value":"34760.858"},{"Region":"512","CountryName":"Oman","Year":"2017","Value":"65498.56"},{"Region":"586","CountryName":"Pakistan","Year":"2017","Value":"183447.068"},{"Region":"591","CountryName":"Panama","Year":"2017","Value":"9612.198"},{"Region":"600","CountryName":"Paraguay","Year":"2017","Value":"7654.689"},{"Region":"604","CountryName":"Peru","Year":"2017","Value":"49693.643"},{"Region":"608","CountryName":"Philippines","Year":"2017","Value":"126487.694"},{"Region":"616","CountryName":"Poland","Year":"2017","Value":"305841.991"},{"Region":"620","CountryName":"Portugal","Year":"2017","Value":"50757.815"},{"Region":"634","CountryName":"Qatar","Year":"2017","Value":"80116.551"},{"Region":"410","CountryName":"South Korea","Year":"2017","Value":"600034.367"},{"Region":"498","CountryName":"Republic of Moldova","Year":"2017","Value":"7526.673"},{"Region":"642","CountryName":"Romania","Year":"2017","Value":"70788.76"},{"Region":"643","CountryName":"Russia","Year":"2017","Value":"1536878.825"},{"Region":"682","CountryName":"Saudi Arabia","Year":"2017","Value":"532181.611"},{"Region":"686","CountryName":"Senegal","Year":"2017","Value":"8311.532"},{"Region":"688","CountryName":"Serbia","Year":"2017","Value":"46129.569"},{"Region":"702","CountryName":"Singapore","Year":"2017","Value":"47407.144"},{"Region":"703","CountryName":"Slovakia","Year":"2017","Value":"32212.012"},{"Region":"705","CountryName":"Slovenia","Year":"2017","Value":"13410.666"},{"Region":"710","CountryName":"South Africa","Year":"2017","Value":"421682.392"},{"Region":"728","CountryName":"S. Sudan","Year":"2017","Value":"1549.031"},{"Region":"724","CountryName":"Spain","Year":"2017","Value":"253423.277"},{"Region":"144","CountryName":"Sri Lanka","Year":"2017","Value":"23103.271"},{"Region":"729","CountryName":"Sudan","Year":"2017","Value":"18777.895"},{"Region":"740","CountryName":"Suriname","Year":"2017","Value":"1928.134"},{"Region":"752","CountryName":"Sweden","Year":"2017","Value":"37643.785"},{"Region":"756","CountryName":"Switzerland","Year":"2017","Value":"37135.572"},{"Region":"760","CountryName":"Syrian Arab Republic","Year":"2017","Value":"23031.045"},{"Region":"762","CountryName":"Tajikistan","Year":"2017","Value":"5843.657"},{"Region":"764","CountryName":"Thailand","Year":"2017","Value":"244254.785"},{"Region":"807","CountryName":"North Macedonia","Year":"2017","Value":"7440.699"},{"Region":"768","CountryName":"Togo","Year":"2017","Value":"2082.434"},{"Region":"780","CountryName":"Trinidad and Tobago","Year":"2017","Value":"18007.573"},{"Region":"788","CountryName":"Tunisia","Year":"2017","Value":"26156.972"},{"Region":"792","CountryName":"Turkey","Year":"2017","Value":"378631.09"},{"Region":"795","CountryName":"Turkmenistan","Year":"2017","Value":"68998.881"},{"Region":"804","CountryName":"Ukraine","Year":"2017","Value":"171300.035"},{"Region":"784","CountryName":"United Arab Emirates","Year":"2017","Value":"196510.174"},{"Region":"826","CountryName":"United Kingdom","Year":"2017","Value":"358731.281"},{"Region":"834","CountryName":"Tanzania","Year":"2017","Value":"10131.79"},{"Region":"840","CountryName":"United States of America","Year":"2017","Value":"4761301.727"},{"Region":"858","CountryName":"Uruguay","Year":"2017","Value":"5872.957"},{"Region":"860","CountryName":"Uzbekistan","Year":"2017","Value":"81156.397"},{"Region":"862","CountryName":"Venezuela","Year":"2017","Value":"113717.543"},{"Region":"704","CountryName":"Vietnam","Year":"2017","Value":"191243.601"},{"Region":"887","CountryName":"Yemen","Year":"2017","Value":"8919.998"},{"Region":"894","CountryName":"Zambia","Year":"2017","Value":"6007.872"},{"Region":"716","CountryName":"Zimbabwe","Year":"2017","Value":"9714.938"}]}]
+[
+    {
+      "date": "1975",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "4338.334"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "13552.694"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "1955.802"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "85231.756"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "179467.397"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "49488.796"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "5229.829"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "4409.654"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "115556.917"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "462.751"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "3224.491"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "129628.181"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "1408.173"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "73315.187"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "1019.224"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "377105.855"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "17111.657"
+        },
+        {
+          "CountryName": "China",
+          "Value": "1029319.44"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "10897.089"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "28297.258"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "606.426"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "1738.003"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "3038.34"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "24184.624"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "1658.258"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "154982.193"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "78598.511"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "2620.726"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "52645.648"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "5213.329"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "5935.604"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "25581.444"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "1929.707"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "1178.11"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "44188.917"
+        },
+        {
+          "CountryName": "France",
+          "Value": "423108.047"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "757.319"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "973365.909"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "2305.818"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "62.036"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "34099.717"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "3015.686"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "412.844"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "1327.971"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "70172.709"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "1614.157"
+        },
+        {
+          "CountryName": "India",
+          "Value": "217193.593"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "37839.826"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "68032.544"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "15538.682"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "21148.87"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "16410.171"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "317060.307"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "7448.304"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "849909.997"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "2151.025"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "3460.622"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "15107.406"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "5709.367"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "8670.6"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "12739.168"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "16217.173"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "651.329"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "422.4"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "134558.202"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "9662.413"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "2375.964"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "3927.468"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "318.654"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "131962.01"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "16429.691"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "1849.605"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "10816.425"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "23603.322"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "722.24"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "19981.642"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "3096.657"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "703.543"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "18240.381"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "29244.261"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "338900.005"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "18031.11"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "4927.527"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "77728.222"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "140600.336"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "22518.895"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "1609.257"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "8439.735"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "43153.699"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "202998.951"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "155843.041"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "2637.329"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "3212.724"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "79041.446"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "36753.441"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "8260.522"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "21151.546"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "317.366"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "4575.18"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "4846.357"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "59631.229"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "4919.173"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "576041.678"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "1405.116"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "4355839.181"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "5333.968"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "56070.364"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "16953.904"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "1752.491"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "4326.456"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "7169.25"
+        }
+      ]
+    },
+    {
+      "date": "1985",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "6929.926"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "42073.253"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "2817.595"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "87779.28"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "220128.059"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "52649.019"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "9099.749"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "7705.068"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "100991.897"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "472.814"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "4313.546"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "1500.972"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "156328.184"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "2945.928"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "82206.429"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "2378.233"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "393880.167"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "19631.224"
+        },
+        {
+          "CountryName": "China",
+          "Value": "1626027.131"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "22306.16"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "39473.328"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "759.835"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "1948.536"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "3046.744"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "32178.767"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "2765.082"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "175254.229"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "129448.215"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "3254.053"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "61031.807"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "6234.306"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "11665.556"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "64473.872"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "1640.679"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "1385.977"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "48284.914"
+        },
+        {
+          "CountryName": "France",
+          "Value": "351797.985"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "1682.488"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "1004256.098"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "2067.234"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "90.096"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "54479.901"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "3183.813"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "796.137"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "1671.582"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "79755.472"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "1627.919"
+        },
+        {
+          "CountryName": "India",
+          "Value": "376237.076"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "84233.249"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "145047.521"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "37974.35"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "26453.225"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "24310.593"
+        },
+        {
+          "Region": "380",
+          "CountryName": "Italy",
+          "Value": "342046.885"
+        },
+        {
+          "Region": "388",
+          "CountryName": "Jamaica",
+          "Value": "4669.488"
+        },
+        {
+          "Region": "392",
+          "CountryName": "Japan",
+          "Value": "866233.818"
+        },
+        {
+          "Region": "400",
+          "CountryName": "Jordan",
+          "Value": "7474.582"
+        },
+        {
+          "Region": "404",
+          "CountryName": "Kenya",
+          "Value": "4592.785"
+        },
+        {
+          "Region": "414",
+          "CountryName": "Kuwait",
+          "Value": "36749.463"
+        },
+        {
+          "Region": "422",
+          "CountryName": "Lebanon",
+          "Value": "6614.05"
+        },
+        {
+          "Region": "434",
+          "CountryName": "Libya",
+          "Value": "21243.693"
+        },
+        {
+          "Region": "442",
+          "CountryName": "Luxembourg",
+          "Value": "10335.311"
+        },
+        {
+          "Region": "458",
+          "CountryName": "Malaysia",
+          "Value": "32910.606"
+        },
+        {
+          "Region": "470",
+          "CountryName": "Malta",
+          "Value": "1158.07"
+        },
+        {
+          "Region": "480",
+          "CountryName": "Mauritania",
+          "Value": "611.518"
+        },
+        {
+          "Region": "484",
+          "CountryName": "Mexico",
+          "Value": "241153.838"
+        },
+        {
+          "Region": "496",
+          "CountryName": "Mongolia",
+          "Value": "11761.986"
+        },
+        {
+          "Region": "504",
+          "CountryName": "Morocco",
+          "Value": "16272.651"
+        },
+        {
+          "Region": "508",
+          "CountryName": "Mozambique",
+          "Value": "1504.154"
+        },
+        {
+          "Region": "104",
+          "CountryName": "Myanmar",
+          "Value": "5734.879"
+        },
+        {
+          "Region": "524",
+          "CountryName": "Nepal",
+          "Value": "551.256"
+        },
+        {
+          "Region": "528",
+          "CountryName": "Netherlands",
+          "Value": "138396.723"
+        },
+        {
+          "Region": "554",
+          "CountryName": "New Zealand",
+          "Value": "18905.085"
+        },
+        {
+          "Region": "558",
+          "CountryName": "Nicaragua",
+          "Value": "1805.723"
+        },
+        {
+          "Region": "566",
+          "CountryName": "Nigeria",
+          "Value": "31785.039"
+        },
+        {
+          "Region": "578",
+          "CountryName": "Norway",
+          "Value": "26415.65"
+        },
+        {
+          "Region": "512",
+          "CountryName": "Oman",
+          "Value": "5636.288"
+        },
+        {
+          "Region": "586",
+          "CountryName": "Pakistan",
+          "Value": "36498.746"
+        },
+        {
+          "Region": "591",
+          "CountryName": "Panama",
+          "Value": "2666.133"
+        },
+        {
+          "Region": "600",
+          "CountryName": "Paraguay",
+          "Value": "1422.914"
+        },
+        {
+          "Region": "604",
+          "CountryName": "Peru",
+          "Value": "18051.923"
+        },
+        {
+          "Region": "608",
+          "CountryName": "Philippines",
+          "Value": "29268.471"
+        },
+        {
+          "Region": "616",
+          "CountryName": "Poland",
+          "Value": "422392.233"
+        },
+        {
+          "Region": "620",
+          "CountryName": "Portugal",
+          "Value": "23924.909"
+        },
+        {
+          "Region": "634",
+          "CountryName": "Qatar",
+          "Value": "10685.735"
+        },
+        {
+          "Region": "410",
+          "CountryName": "South Korea",
+          "Value": "155729.6"
+        },
+        {
+          "Region": "642",
+          "CountryName": "Romania",
+          "Value": "174876.064"
+        },
+        {
+          "Region": "682",
+          "CountryName": "Saudi Arabia",
+          "Value": "117802.204"
+        },
+        {
+          "Region": "686",
+          "CountryName": "Senegal",
+          "Value": "2124.697"
+        },
+        {
+          "Region": "702",
+          "CountryName": "Singapore",
+          "Value": "16604.537"
+        },
+        {
+          "Region": "703",
+          "CountryName": "Slovakia",
+          "Value": "54413.304"
+        },
+        {
+          "Region": "710",
+          "CountryName": "South Africa",
+          "Value": "222952.718"
+        },
+        {
+          "Region": "724",
+          "CountryName": "Spain",
+          "Value": "173024.021"
+        },
+        {
+          "Region": "144",
+          "CountryName": "Sri Lanka",
+          "Value": "3485.027"
+        },
+        {
+          "Region": "729",
+          "CountryName": "Sudan",
+          "Value": "3980.398"
+        },
+        {
+          "Region": "752",
+          "CountryName": "Sweden",
+          "Value": "58385.814"
+        },
+        {
+          "Region": "756",
+          "CountryName": "Switzerland",
+          "Value": "41772.73"
+        },
+        {
+          "Region": "760",
+          "CountryName": "Syrian Arab Republic",
+          "Value": "19536.172"
+        },
+        {
+          "Region": "764",
+          "CountryName": "Thailand",
+          "Value": "42058.571"
+        },
+        {
+          "Region": "768",
+          "CountryName": "Togo",
+          "Value": "296.704"
+        },
+        {
+          "Region": "780",
+          "CountryName": "Trinidad and Tobago",
+          "Value": "6654.053"
+        },
+        {
+          "Region": "788",
+          "CountryName": "Tunisia",
+          "Value": "9661.523"
+        },
+        {
+          "Region": "792",
+          "CountryName": "Turkey",
+          "Value": "95358.471"
+        },
+        {
+          "Region": "784",
+          "CountryName": "United Arab Emirates",
+          "Value": "35636.27"
+        },
+        {
+          "Region": "826",
+          "CountryName": "United Kingdom",
+          "Value": "543545.262"
+        },
+        {
+          "Region": "834",
+          "CountryName": "Tanzania",
+          "Value": "1463.256"
+        },
+        {
+          "Region": "840",
+          "CountryName": "United States of America",
+          "Value": "4514313.221"
+        },
+        {
+          "Region": "858",
+          "CountryName": "Uruguay",
+          "Value": "3010.832"
+        },
+        {
+          "Region": "862",
+          "CountryName": "Venezuela",
+          "Value": "85139.411"
+        },
+        {
+          "Region": "704",
+          "CountryName": "Vietnam",
+          "Value": "17434.722"
+        },
+        {
+          "Region": "887",
+          "CountryName": "Yemen",
+          "Value": "4857.042"
+        },
+        {
+          "Region": "894",
+          "CountryName": "Zambia",
+          "Value": "2696.412"
+        },
+        {
+          "Region": "716",
+          "CountryName": "Zimbabwe",
+          "Value": "9730.003"
+        }
+      ]
+    },
+    {
+      "date": "1995",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "1848.549"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "55336.862"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "3913.613"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "117327.938"
+        },
+        {
+          "CountryName": "Armenia",
+          "Value": "3368.027"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "285324.094"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "59549.049"
+        },
+        {
+          "CountryName": "Azerbaijan",
+          "Value": "32372.42"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "13457.588"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "16485.473"
+        },
+        {
+          "CountryName": "Belarus",
+          "Value": "56957.863"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "111313.683"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "221.525"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "6893.805"
+        },
+        {
+          "CountryName": "Bosnia and Herzegovina",
+          "Value": "3279.823"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "3189.755"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "228000.209"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "4502.607"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "52737.289"
+        },
+        {
+          "CountryName": "Cambodia",
+          "Value": "1470.828"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "2459.446"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "448985.855"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "37075.351"
+        },
+        {
+          "CountryName": "China",
+          "Value": "2900265.046"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "36527.226"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "54457.808"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "536.664"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "4438.795"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "3262.483"
+        },
+        {
+          "CountryName": "Croatia",
+          "Value": "14774.177"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "22448.802"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "5048.341"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "123174.79"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "76532.289"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "1142.631"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "58385.219"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "11221.463"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "16691.131"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "81466.137"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "4573.345"
+        },
+        {
+          "CountryName": "Eritrea",
+          "Value": "776.324"
+        },
+        {
+          "CountryName": "Estonia",
+          "Value": "15889.313"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "2325.783"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "55714.578"
+        },
+        {
+          "CountryName": "France",
+          "Value": "343648.115"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "1315.246"
+        },
+        {
+          "CountryName": "Georgia",
+          "Value": "8136.847"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "856596.915"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "3184.394"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "280.803"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "76478.485"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "5858.99"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "902.323"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "3575.392"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "56245.319"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "1964.286"
+        },
+        {
+          "CountryName": "India",
+          "Value": "703332.012"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "204206.565"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "244569.989"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "95144.89"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "32636.823"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "44873.881"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "401104.969"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "8417"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "1118246.59"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "12194.147"
+        },
+        {
+          "CountryName": "Kazakhstan",
+          "Value": "170519.468"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "5729.446"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "32351.708"
+        },
+        {
+          "CountryName": "Kyrgyzstan",
+          "Value": "4458.54"
+        },
+        {
+          "CountryName": "Latvia",
+          "Value": "8902.54"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "12829.853"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "32953.725"
+        },
+        {
+          "CountryName": "Lithuania",
+          "Value": "13434.207"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "8225.746"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "79589.944"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "2378.847"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "1551.459"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "291336.44"
+        },
+        {
+          "CountryName": "Mongolia",
+          "Value": "10235.411"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "26073.834"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "1148.226"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "6727.112"
+        },
+        {
+          "CountryName": "Namibia",
+          "Value": "1794.288"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "1763.15"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "163582.74"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "23933.941"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "2513.712"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "32775.287"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "31408.419"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "14691.666"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "79248.729"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "4091.661"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "3489.665"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "23310.638"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "57257.517"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "333337.838"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "47231.15"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "16831.699"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "357306.006"
+        },
+        {
+          "CountryName": "Republic of Moldova",
+          "Value": "11892.994"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "117587.815"
+        },
+        {
+          "CountryName": "Russia",
+          "Value": "1548252.185"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "191653.1"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "2478.529"
+        },
+        {
+          "CountryName": "Serbia",
+          "Value": "44548.887"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "37581.859"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "41215.629"
+        },
+        {
+          "CountryName": "Slovenia",
+          "Value": "14063.911"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "259773.474"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "228207.254"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "5454.193"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "4308.578"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "56934.868"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "41451.234"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "31132.913"
+        },
+        {
+          "CountryName": "Tajikistan",
+          "Value": "2459.615"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "139938.48"
+        },
+        {
+          "CountryName": "North Macedonia",
+          "Value": "8305.696"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "579.397"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "8163.496"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "14035.985"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "154030.155"
+        },
+        {
+          "CountryName": "Turkmenistan",
+          "Value": "33255.953"
+        },
+        {
+          "CountryName": "Ukraine",
+          "Value": "395842.067"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "69659.182"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "513796.422"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "2492.046"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "5073896.072"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "4391.965"
+        },
+        {
+          "CountryName": "Uzbekistan",
+          "Value": "94583.912"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "106098.113"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "27462.105"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "9436.415"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "2002.364"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "15089.219"
+        }
+      ]
+    },
+    {
+      "date": "2005",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "3825.184"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "77474.13"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "6146.691"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "149476.04"
+        },
+        {
+          "CountryName": "Armenia",
+          "Value": "4129.845"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "365515.118"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "74764.026"
+        },
+        {
+          "CountryName": "Azerbaijan",
+          "Value": "29018.489"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "20564.912"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "31960.244"
+        },
+        {
+          "CountryName": "Belarus",
+          "Value": "55014.16"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "107676.772"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "2677.863"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "8975.809"
+        },
+        {
+          "CountryName": "Bosnia and Herzegovina",
+          "Value": "15857.733"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "4278.592"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "311623.799"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "4823.126"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "46473.483"
+        },
+        {
+          "CountryName": "Cambodia",
+          "Value": "2639.032"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "2935.781"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "540431.495"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "54434.634"
+        },
+        {
+          "CountryName": "China",
+          "Value": "5407518.03"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "41332.022"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "53585.3"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "843.574"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "5463.059"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "5813.001"
+        },
+        {
+          "CountryName": "Croatia",
+          "Value": "19917.214"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "25051.431"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "7047.944"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "118369.879"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "75340.154"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "1281.832"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "48494.944"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "17522.139"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "23926.725"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "145027.708"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "6252.815"
+        },
+        {
+          "CountryName": "Eritrea",
+          "Value": "578.183"
+        },
+        {
+          "CountryName": "Estonia",
+          "Value": "16747.695"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "4482.124"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "54918.043"
+        },
+        {
+          "CountryName": "France",
+          "Value": "371892.91"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "1733.485"
+        },
+        {
+          "CountryName": "Georgia",
+          "Value": "4065.656"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "786664.297"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "6306.508"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "405.663"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "95156.324"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "10621.597"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "1980.992"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "7192.737"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "54722.182"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "2235.38"
+        },
+        {
+          "CountryName": "India",
+          "Value": "1073700.993"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "317824.312"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "417780.642"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "73175.677"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "44420.119"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "58796.711"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "456431.826"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "10281.648"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "1166814.399"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "17922.443"
+        },
+        {
+          "CountryName": "Kazakhstan",
+          "Value": "156902.433"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "7483.192"
+        },
+        {
+          "CountryName": "Kosovo",
+          "Value": "6639.156"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "64750.023"
+        },
+        {
+          "CountryName": "Kyrgyzstan",
+          "Value": "4891.9"
+        },
+        {
+          "CountryName": "Latvia",
+          "Value": "7580.61"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "14523.599"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "43101.459"
+        },
+        {
+          "CountryName": "Lithuania",
+          "Value": "12443.951"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "11493.299"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "155842.735"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "2621.893"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "2961.755"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "412385.135"
+        },
+        {
+          "CountryName": "Mongolia",
+          "Value": "10984.928"
+        },
+        {
+          "CountryName": "Montenegro",
+          "Value": "2004.798"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "39215.868"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "1514.919"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "10477.314"
+        },
+        {
+          "CountryName": "Namibia",
+          "Value": "2492.652"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "3074.201"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "167489.66"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "33690.287"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "4032.083"
+        },
+        {
+          "CountryName": "Niger",
+          "Value": "736.144"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "56558.056"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "34500.489"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "25181.794"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "114969.678"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "6776.118"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "3472.665"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "28632.888"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "71501.652"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "296261.105"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "61385.798"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "33211.677"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "457672.117"
+        },
+        {
+          "CountryName": "Republic of Moldova",
+          "Value": "7810.491"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "92632.653"
+        },
+        {
+          "CountryName": "Russia",
+          "Value": "1481897.136"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "298036.626"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "4626.203"
+        },
+        {
+          "CountryName": "Serbia",
+          "Value": "50320.015"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "36901.353"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "37262.253"
+        },
+        {
+          "CountryName": "Slovenia",
+          "Value": "15443.058"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "372313.634"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "333710.098"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "13392.91"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "9927.598"
+        },
+        {
+          "CountryName": "Suriname",
+          "Value": "1652.793"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "49105.656"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "44006.757"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "53466.192"
+        },
+        {
+          "CountryName": "Tajikistan",
+          "Value": "2347.227"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "200203.804"
+        },
+        {
+          "CountryName": "North Macedonia",
+          "Value": "8917.292"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "963.204"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "17175.823"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "19472.77"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "215892.986"
+        },
+        {
+          "CountryName": "Turkmenistan",
+          "Value": "48103.296"
+        },
+        {
+          "CountryName": "Ukraine",
+          "Value": "290620.184"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "111145.283"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "531648.669"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "5118.673"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "5703220.175"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "5151.871"
+        },
+        {
+          "CountryName": "Uzbekistan",
+          "Value": "105599.618"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "137701.548"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "79230.185"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "18836.222"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "2120.692"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "10272.774"
+        }
+      ]
+    },
+    {
+      "date": "2010",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "3930.295"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "95535.489"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "15151.684"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "173768.538"
+        },
+        {
+          "CountryName": "Armenia",
+          "Value": "4048.253"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "383618.673"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "68571.165"
+        },
+        {
+          "CountryName": "Azerbaijan",
+          "Value": "23532.476"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "25551.566"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "49899.502"
+        },
+        {
+          "CountryName": "Belarus",
+          "Value": "59498.259"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "103890.892"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "4573.129"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "13637.623"
+        },
+        {
+          "CountryName": "Bosnia and Herzegovina",
+          "Value": "20482.682"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "3271.367"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "372003.618"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "6861.946"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "44362.486"
+        },
+        {
+          "CountryName": "Cambodia",
+          "Value": "4621.82"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "5050.631"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "528618.581"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "68604.765"
+        },
+        {
+          "CountryName": "China",
+          "Value": "7832716.615"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "41997.165"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "60224.103"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "1833.183"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "6622.054"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "6245.044"
+        },
+        {
+          "CountryName": "Croatia",
+          "Value": "18248.777"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "29508.746"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "7260.554"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "112460.232"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "49292.798"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "1869.246"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "47254.487"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "19021.523"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "32749.762"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "176436.297"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "5826.204"
+        },
+        {
+          "CountryName": "Eritrea",
+          "Value": "479.57"
+        },
+        {
+          "CountryName": "Estonia",
+          "Value": "18563.998"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "5898.599"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "62000.673"
+        },
+        {
+          "CountryName": "France",
+          "Value": "340218.09"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "2659.638"
+        },
+        {
+          "CountryName": "Georgia",
+          "Value": "4995.027"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "758802.602"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "10419.649"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "474.195"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "83369.47"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "10272.703"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "2095.144"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "7535.444"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "47145.132"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "1949.182"
+        },
+        {
+          "CountryName": "India",
+          "Value": "1583431.201"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "357646.151"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "498607.87"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "103576.749"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "39516.725"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "68437.949"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "391992.33"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "6930.89"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "1127152.038"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "18801.144"
+        },
+        {
+          "CountryName": "Kazakhstan",
+          "Value": "221101.402"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "11209.779"
+        },
+        {
+          "CountryName": "Kosovo",
+          "Value": "8695.947"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "77004.456"
+        },
+        {
+          "CountryName": "Kyrgyzstan",
+          "Value": "6040.358"
+        },
+        {
+          "CountryName": "Latvia",
+          "Value": "8087.541"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "18293.3"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "48181.967"
+        },
+        {
+          "CountryName": "Lithuania",
+          "Value": "12314.715"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "10664.187"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "189860.901"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "2580.576"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "3662.144"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "440460.336"
+        },
+        {
+          "CountryName": "Mongolia",
+          "Value": "14139.533"
+        },
+        {
+          "CountryName": "Montenegro",
+          "Value": "2584.208"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "46396.882"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "2377.492"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "7906.445"
+        },
+        {
+          "CountryName": "Namibia",
+          "Value": "3078.895"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "4121.846"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "170762.343"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "30347.958"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "4277.15"
+        },
+        {
+          "CountryName": "Niger",
+          "Value": "1358.855"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "55417.965"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "37291.15"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "42367.74"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "129168.625"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "8878.513"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "4791.954"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "41544.007"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "77128.398"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "307493.273"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "47561.335"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "55503.424"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "550915.653"
+        },
+        {
+          "CountryName": "Republic of Moldova",
+          "Value": "7946.552"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "74725.473"
+        },
+        {
+          "CountryName": "Russia",
+          "Value": "1529228.168"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "419163.541"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "5460.983"
+        },
+        {
+          "CountryName": "Serbia",
+          "Value": "45610.19"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "42413.616"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "34572.279"
+        },
+        {
+          "CountryName": "Slovenia",
+          "Value": "15446.955"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "418800.964"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "262054.512"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "12408.76"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "15122.702"
+        },
+        {
+          "CountryName": "Suriname",
+          "Value": "1695.676"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "46062.647"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "43257.966"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "57270.529"
+        },
+        {
+          "CountryName": "Tajikistan",
+          "Value": "2302.905"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "223418.643"
+        },
+        {
+          "CountryName": "North Macedonia",
+          "Value": "8319.696"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "2076.229"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "21849.145"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "23293.569"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "267846.219"
+        },
+        {
+          "CountryName": "Turkmenistan",
+          "Value": "56919.769"
+        },
+        {
+          "CountryName": "Ukraine",
+          "Value": "266580.685"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "154590.032"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "476626.011"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "6216.798"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "5352120.423"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "5959.638"
+        },
+        {
+          "CountryName": "Uzbekistan",
+          "Value": "100562.513"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "171468.892"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "126659.264"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "22388.934"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "1636.973"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "9464.714"
+        }
+      ]
+    },
+    {
+      "date": "2015",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "3824.801"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "130426.655"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "21532.32"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "190384.899"
+        },
+        {
+          "CountryName": "Armenia",
+          "Value": "4702.13"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "373846.773"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "62221.17"
+        },
+        {
+          "CountryName": "Azerbaijan",
+          "Value": "30806.159"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "30072.802"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "70895.346"
+        },
+        {
+          "CountryName": "Belarus",
+          "Value": "52618.265"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "92789.797"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "5261.645"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "18099.998"
+        },
+        {
+          "CountryName": "Bosnia and Herzegovina",
+          "Value": "19306.465"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "7068.888"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "453633.529"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "5977.692"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "43715.357"
+        },
+        {
+          "CountryName": "Cambodia",
+          "Value": "8011.977"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "5944.767"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "557660.685"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "81092.176"
+        },
+        {
+          "CountryName": "China",
+          "Value": "9101375.985"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "43917.31"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "77609.792"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "3164.794"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "6940.23"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "9543.523"
+        },
+        {
+          "CountryName": "Croatia",
+          "Value": "15512.642"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "26841.68"
+        },
+        {
+          "CountryName": "Curaçao",
+          "Value": "4691.214"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "5900.866"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "99424.53"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "22545.503"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "2734.926"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "31948.409"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "21519.849"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "37357.272"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "199544.529"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "6389.271"
+        },
+        {
+          "CountryName": "Eritrea",
+          "Value": "590.108"
+        },
+        {
+          "CountryName": "Estonia",
+          "Value": "15147.858"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "10059.891"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "42365.643"
+        },
+        {
+          "CountryName": "France",
+          "Value": "299640.583"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "3252.522"
+        },
+        {
+          "CountryName": "Georgia",
+          "Value": "8383.116"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "729684.098"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "14088.758"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "589.619"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "64543.218"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "15164.376"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "3208.933"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "9558.552"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "42708.351"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "2057.458"
+        },
+        {
+          "CountryName": "India",
+          "Value": "2026704.698"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "459139.082"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "553300.897"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "130762.392"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "35342.128"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "63927.754"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "329662.257"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "6992.686"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "1155666.505"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "23785.053"
+        },
+        {
+          "CountryName": "Kazakhstan",
+          "Value": "245762.673"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "14721.841"
+        },
+        {
+          "CountryName": "Kosovo",
+          "Value": "8605.689"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "91638.915"
+        },
+        {
+          "CountryName": "Kyrgyzstan",
+          "Value": "9896.806"
+        },
+        {
+          "CountryName": "Latvia",
+          "Value": "6845.608"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "24619.15"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "42725.711"
+        },
+        {
+          "CountryName": "Lithuania",
+          "Value": "10550.273"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "8804.662"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "220437.513"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "1648.9"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "3967.535"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "442417.19"
+        },
+        {
+          "CountryName": "Mongolia",
+          "Value": "17118.652"
+        },
+        {
+          "CountryName": "Montenegro",
+          "Value": "2358.285"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "55371.267"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "6221.087"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "18671.324"
+        },
+        {
+          "CountryName": "Namibia",
+          "Value": "3858.399"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "5694.237"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "157858.417"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "31258.942"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "5054.947"
+        },
+        {
+          "CountryName": "Niger",
+          "Value": "1953.955"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "82588.782"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "35890.983"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "63636.288"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "150688.547"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "10102.101"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "5849.183"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "49724.806"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "103891.197"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "282708.42"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "46930.899"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "77645.489"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "582047.107"
+        },
+        {
+          "CountryName": "Republic of Moldova",
+          "Value": "7578.52"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "69558.57"
+        },
+        {
+          "CountryName": "Russia",
+          "Value": "1534458.233"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "531554.326"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "7516.857"
+        },
+        {
+          "CountryName": "Serbia",
+          "Value": "44459.955"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "45496.01"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "29444.719"
+        },
+        {
+          "CountryName": "Slovenia",
+          "Value": "12805.132"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "418258.797"
+        },
+        {
+          "CountryName": "S. Sudan",
+          "Value": "2001.328"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "247067.141"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "19489.878"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "16354.488"
+        },
+        {
+          "CountryName": "Suriname",
+          "Value": "2063.356"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "37112.379"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "37323.113"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "23872.123"
+        },
+        {
+          "CountryName": "Tajikistan",
+          "Value": "4211.795"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "248039.678"
+        },
+        {
+          "CountryName": "North Macedonia",
+          "Value": "7133.668"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "1906.291"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "21280.034"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "25614.897"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "318973.757"
+        },
+        {
+          "CountryName": "Turkmenistan",
+          "Value": "69105.29"
+        },
+        {
+          "CountryName": "Ukraine",
+          "Value": "187590.314"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "186575.572"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "394115.172"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "10472.963"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "4928610.664"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "6374.932"
+        },
+        {
+          "CountryName": "Uzbekistan",
+          "Value": "92161.645"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "140538.724"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "182588.799"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "11662.059"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "3475.653"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "11822.362"
+        }
+      ]
+    },
+    {
+      "date": "2016",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "3674.183"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "127640.064"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "21458.342"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "190512.04"
+        },
+        {
+          "CountryName": "Armenia",
+          "Value": "4833.071"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "381878.629"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "62048.731"
+        },
+        {
+          "CountryName": "Azerbaijan",
+          "Value": "31409.359"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "29638.922"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "72943.639"
+        },
+        {
+          "CountryName": "Belarus",
+          "Value": "53062.826"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "91932.287"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "6602.646"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "20126.218"
+        },
+        {
+          "CountryName": "Bosnia and Herzegovina",
+          "Value": "22019.403"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "6979.639"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "418523.728"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "6411.543"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "40548.756"
+        },
+        {
+          "CountryName": "Cambodia",
+          "Value": "9287.497"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "6103.656"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "548095.275"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "85245.52"
+        },
+        {
+          "CountryName": "China",
+          "Value": "9064428.642"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "44728.626"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "87720.859"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "2978.36"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "7488.019"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "9586.785"
+        },
+        {
+          "CountryName": "Croatia",
+          "Value": "15858.564"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "27791.025"
+        },
+        {
+          "CountryName": "Curaçao",
+          "Value": "4150.776"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "6269.2"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "101157.395"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "25426.726"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "1979.013"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "33486.945"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "22534.306"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "35393.138"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "204112.697"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "6372.143"
+        },
+        {
+          "CountryName": "Eritrea",
+          "Value": "599.637"
+        },
+        {
+          "CountryName": "Estonia",
+          "Value": "15460.878"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "11843.085"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "45127.234"
+        },
+        {
+          "CountryName": "France",
+          "Value": "301695.852"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "3357.483"
+        },
+        {
+          "CountryName": "Georgia",
+          "Value": "8809.005"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "734487.052"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "12967.698"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "645.692"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "63076.623"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "16261.135"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "3250.079"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "9132.171"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "43777.954"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "2064.863"
+        },
+        {
+          "CountryName": "India",
+          "Value": "2057682.254"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "454267.119"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "554410.488"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "140337.13"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "36863.114"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "63082.005"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "325657.168"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "7524.926"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "1146887.524"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "23834.961"
+        },
+        {
+          "CountryName": "Kazakhstan",
+          "Value": "254927.792"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "16266.163"
+        },
+        {
+          "CountryName": "Kosovo",
+          "Value": "9080.385"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "93178.766"
+        },
+        {
+          "CountryName": "Kyrgyzstan",
+          "Value": "9298.993"
+        },
+        {
+          "CountryName": "Latvia",
+          "Value": "6799.011"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "25460.51"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "41056.051"
+        },
+        {
+          "CountryName": "Lithuania",
+          "Value": "10750.005"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "8501.982"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "216236.083"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "1354.078"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "4042.202"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "446175.879"
+        },
+        {
+          "CountryName": "Mongolia",
+          "Value": "17981.117"
+        },
+        {
+          "CountryName": "Montenegro",
+          "Value": "2112.994"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "55299.726"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "8445.417"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "20899.074"
+        },
+        {
+          "CountryName": "Namibia",
+          "Value": "3983.156"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "8503.721"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "158034.178"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "30434.542"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "5112.604"
+        },
+        {
+          "CountryName": "Niger",
+          "Value": "1951.763"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "84738.062"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "35281.342"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "63137.552"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "164184.363"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "10191.378"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "6803.062"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "52186.698"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "114751.784"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "293211.41"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "46422.53"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "79084.102"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "589212.169"
+        },
+        {
+          "CountryName": "Republic of Moldova",
+          "Value": "7710.688"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "67962.637"
+        },
+        {
+          "CountryName": "Russia",
+          "Value": "1510557.598"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "526887.374"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "8159.977"
+        },
+        {
+          "CountryName": "Serbia",
+          "Value": "45474.363"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "46065.234"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "30159.706"
+        },
+        {
+          "CountryName": "Slovenia",
+          "Value": "13585.628"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "418658.117"
+        },
+        {
+          "CountryName": "S. Sudan",
+          "Value": "1765.239"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "237400.337"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "20898.562"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "18922.66"
+        },
+        {
+          "CountryName": "Suriname",
+          "Value": "1909.88"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "37989.269"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "37851.822"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "23086.043"
+        },
+        {
+          "CountryName": "Tajikistan",
+          "Value": "5428.489"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "244124.879"
+        },
+        {
+          "CountryName": "North Macedonia",
+          "Value": "6947.674"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "1997.993"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "17457.045"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "25212.344"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "338874.454"
+        },
+        {
+          "CountryName": "Turkmenistan",
+          "Value": "68972.285"
+        },
+        {
+          "CountryName": "Ukraine",
+          "Value": "197626.378"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "192070.738"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "372557.789"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "9676.776"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "4838476.243"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "6325.631"
+        },
+        {
+          "CountryName": "Uzbekistan",
+          "Value": "81343.275"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "127366.139"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "193611.788"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "9389.446"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "3731.899"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "10368.9"
+        }
+      ]
+    },
+    {
+      "date": "2017",
+      "countryList": [
+        {
+          "CountryName": "Albania",
+          "Value": "4342.011"
+        },
+        {
+          "CountryName": "Algeria",
+          "Value": "130493.653"
+        },
+        {
+          "CountryName": "Angola",
+          "Value": "18021.394"
+        },
+        {
+          "CountryName": "Argentina",
+          "Value": "183375.203"
+        },
+        {
+          "CountryName": "Armenia",
+          "Value": "5165.593"
+        },
+        {
+          "CountryName": "Australia",
+          "Value": "384583.857"
+        },
+        {
+          "CountryName": "Austria",
+          "Value": "64872.394"
+        },
+        {
+          "CountryName": "Azerbaijan",
+          "Value": "30805.851"
+        },
+        {
+          "CountryName": "Bahrain",
+          "Value": "29813.834"
+        },
+        {
+          "CountryName": "Bangladesh",
+          "Value": "78270.17"
+        },
+        {
+          "CountryName": "Belarus",
+          "Value": "54070.453"
+        },
+        {
+          "CountryName": "Belgium",
+          "Value": "90368.188"
+        },
+        {
+          "CountryName": "Benin",
+          "Value": "6763.074"
+        },
+        {
+          "CountryName": "Bolivia",
+          "Value": "21899.18"
+        },
+        {
+          "CountryName": "Bosnia and Herzegovina",
+          "Value": "22327.978"
+        },
+        {
+          "CountryName": "Botswana",
+          "Value": "7717.409"
+        },
+        {
+          "CountryName": "Brazil",
+          "Value": "427632.717"
+        },
+        {
+          "CountryName": "Brunei Darussalam",
+          "Value": "6710.178"
+        },
+        {
+          "CountryName": "Bulgaria",
+          "Value": "42819.932"
+        },
+        {
+          "CountryName": "Cambodia",
+          "Value": "10762.923"
+        },
+        {
+          "CountryName": "Cameroon",
+          "Value": "6152.919"
+        },
+        {
+          "CountryName": "Canada",
+          "Value": "547798.641"
+        },
+        {
+          "CountryName": "Chile",
+          "Value": "86087.14"
+        },
+        {
+          "CountryName": "China",
+          "Value": "9257933.9"
+        },
+        {
+          "CountryName": "China, Hong Kong SAR",
+          "Value": "44034.675"
+        },
+        {
+          "CountryName": "Colombia",
+          "Value": "75291.911"
+        },
+        {
+          "CountryName": "Congo",
+          "Value": "2847.335"
+        },
+        {
+          "CountryName": "Costa Rica",
+          "Value": "7584.411"
+        },
+        {
+          "CountryName": "Côte d’Ivoire",
+          "Value": "10234.205"
+        },
+        {
+          "CountryName": "Croatia",
+          "Value": "16193.172"
+        },
+        {
+          "CountryName": "Cuba",
+          "Value": "26215.665"
+        },
+        {
+          "CountryName": "Curaçao",
+          "Value": "3748.132"
+        },
+        {
+          "CountryName": "Cyprus",
+          "Value": "6367.874"
+        },
+        {
+          "CountryName": "Czechia",
+          "Value": "101682.752"
+        },
+        {
+          "CountryName": "North Korea",
+          "Value": "19579.698"
+        },
+        {
+          "CountryName": "Dem. Rep. Congo",
+          "Value": "2201.742"
+        },
+        {
+          "CountryName": "Denmark",
+          "Value": "31263.57"
+        },
+        {
+          "CountryName": "Dominican Republic",
+          "Value": "21430.38"
+        },
+        {
+          "CountryName": "Ecuador",
+          "Value": "34299.317"
+        },
+        {
+          "CountryName": "Egypt",
+          "Value": "209219.059"
+        },
+        {
+          "CountryName": "El Salvador",
+          "Value": "5735.668"
+        },
+        {
+          "CountryName": "Eritrea",
+          "Value": "632.105"
+        },
+        {
+          "CountryName": "Estonia",
+          "Value": "15972.029"
+        },
+        {
+          "CountryName": "Ethiopia",
+          "Value": "13059.815"
+        },
+        {
+          "CountryName": "Finland",
+          "Value": "42598.175"
+        },
+        {
+          "CountryName": "France",
+          "Value": "306123.541"
+        },
+        {
+          "CountryName": "Gabon",
+          "Value": "3367.911"
+        },
+        {
+          "CountryName": "Georgia",
+          "Value": "8720.3"
+        },
+        {
+          "CountryName": "Germany",
+          "Value": "718794.085"
+        },
+        {
+          "CountryName": "Ghana",
+          "Value": "13779.635"
+        },
+        {
+          "CountryName": "Gibraltar",
+          "Value": "703.9"
+        },
+        {
+          "CountryName": "Greece",
+          "Value": "63213.31"
+        },
+        {
+          "CountryName": "Guatemala",
+          "Value": "15703.161"
+        },
+        {
+          "CountryName": "Haiti",
+          "Value": "3293.125"
+        },
+        {
+          "CountryName": "Honduras",
+          "Value": "9426.74"
+        },
+        {
+          "CountryName": "Hungary",
+          "Value": "45783.636"
+        },
+        {
+          "CountryName": "Iceland",
+          "Value": "2173.307"
+        },
+        {
+          "CountryName": "India",
+          "Value": "2161567.072"
+        },
+        {
+          "CountryName": "Indonesia",
+          "Value": "496406.275"
+        },
+        {
+          "CountryName": "Iran",
+          "Value": "567123.294"
+        },
+        {
+          "CountryName": "Iraq",
+          "Value": "139877.659"
+        },
+        {
+          "CountryName": "Ireland",
+          "Value": "35720.302"
+        },
+        {
+          "CountryName": "Israel",
+          "Value": "63766.189"
+        },
+        {
+          "CountryName": "Italy",
+          "Value": "321481.224"
+        },
+        {
+          "CountryName": "Jamaica",
+          "Value": "6971.666"
+        },
+        {
+          "CountryName": "Japan",
+          "Value": "1132435.4"
+        },
+        {
+          "CountryName": "Jordan",
+          "Value": "25550.14"
+        },
+        {
+          "CountryName": "Kazakhstan",
+          "Value": "255767.646"
+        },
+        {
+          "CountryName": "Kenya",
+          "Value": "16264.973"
+        },
+        {
+          "CountryName": "Kosovo",
+          "Value": "8168.55"
+        },
+        {
+          "CountryName": "Kuwait",
+          "Value": "89420.615"
+        },
+        {
+          "CountryName": "Kyrgyzstan",
+          "Value": "8909.263"
+        },
+        {
+          "CountryName": "Latvia",
+          "Value": "6679.644"
+        },
+        {
+          "CountryName": "Lebanon",
+          "Value": "26931.044"
+        },
+        {
+          "CountryName": "Libya",
+          "Value": "41528.35"
+        },
+        {
+          "CountryName": "Lithuania",
+          "Value": "10811.096"
+        },
+        {
+          "CountryName": "Luxembourg",
+          "Value": "8631.187"
+        },
+        {
+          "CountryName": "Malaysia",
+          "Value": "211046.967"
+        },
+        {
+          "CountryName": "Malta",
+          "Value": "1516.276"
+        },
+        {
+          "CountryName": "Mauritania",
+          "Value": "4182.138"
+        },
+        {
+          "CountryName": "Mexico",
+          "Value": "445991.937"
+        },
+        {
+          "CountryName": "Mongolia",
+          "Value": "19276"
+        },
+        {
+          "CountryName": "Montenegro",
+          "Value": "2206.233"
+        },
+        {
+          "CountryName": "Morocco",
+          "Value": "58149.86"
+        },
+        {
+          "CountryName": "Mozambique",
+          "Value": "7624.932"
+        },
+        {
+          "CountryName": "Myanmar",
+          "Value": "30404.919"
+        },
+        {
+          "CountryName": "Namibia",
+          "Value": "4037.15"
+        },
+        {
+          "CountryName": "Nepal",
+          "Value": "10113.953"
+        },
+        {
+          "CountryName": "Netherlands",
+          "Value": "155574.278"
+        },
+        {
+          "CountryName": "New Zealand",
+          "Value": "32241.597"
+        },
+        {
+          "CountryName": "Nicaragua",
+          "Value": "5106.281"
+        },
+        {
+          "CountryName": "Niger",
+          "Value": "2048.704"
+        },
+        {
+          "CountryName": "Nigeria",
+          "Value": "85988.513"
+        },
+        {
+          "CountryName": "Norway",
+          "Value": "34760.858"
+        },
+        {
+          "CountryName": "Oman",
+          "Value": "65498.56"
+        },
+        {
+          "CountryName": "Pakistan",
+          "Value": "183447.068"
+        },
+        {
+          "CountryName": "Panama",
+          "Value": "9612.198"
+        },
+        {
+          "CountryName": "Paraguay",
+          "Value": "7654.689"
+        },
+        {
+          "CountryName": "Peru",
+          "Value": "49693.643"
+        },
+        {
+          "CountryName": "Philippines",
+          "Value": "126487.694"
+        },
+        {
+          "CountryName": "Poland",
+          "Value": "305841.991"
+        },
+        {
+          "CountryName": "Portugal",
+          "Value": "50757.815"
+        },
+        {
+          "CountryName": "Qatar",
+          "Value": "80116.551"
+        },
+        {
+          "CountryName": "South Korea",
+          "Value": "600034.367"
+        },
+        {
+          "CountryName": "Republic of Moldova",
+          "Value": "7526.673"
+        },
+        {
+          "CountryName": "Romania",
+          "Value": "70788.76"
+        },
+        {
+          "CountryName": "Russia",
+          "Value": "1536878.825"
+        },
+        {
+          "CountryName": "Saudi Arabia",
+          "Value": "532181.611"
+        },
+        {
+          "CountryName": "Senegal",
+          "Value": "8311.532"
+        },
+        {
+          "CountryName": "Serbia",
+          "Value": "46129.569"
+        },
+        {
+          "CountryName": "Singapore",
+          "Value": "47407.144"
+        },
+        {
+          "CountryName": "Slovakia",
+          "Value": "32212.012"
+        },
+        {
+          "CountryName": "Slovenia",
+          "Value": "13410.666"
+        },
+        {
+          "CountryName": "South Africa",
+          "Value": "421682.392"
+        },
+        {
+          "CountryName": "S. Sudan",
+          "Value": "1549.031"
+        },
+        {
+          "CountryName": "Spain",
+          "Value": "253423.277"
+        },
+        {
+          "CountryName": "Sri Lanka",
+          "Value": "23103.271"
+        },
+        {
+          "CountryName": "Sudan",
+          "Value": "18777.895"
+        },
+        {
+          "CountryName": "Suriname",
+          "Value": "1928.134"
+        },
+        {
+          "CountryName": "Sweden",
+          "Value": "37643.785"
+        },
+        {
+          "CountryName": "Switzerland",
+          "Value": "37135.572"
+        },
+        {
+          "CountryName": "Syrian Arab Republic",
+          "Value": "23031.045"
+        },
+        {
+          "CountryName": "Tajikistan",
+          "Value": "5843.657"
+        },
+        {
+          "CountryName": "Thailand",
+          "Value": "244254.785"
+        },
+        {
+          "CountryName": "North Macedonia",
+          "Value": "7440.699"
+        },
+        {
+          "CountryName": "Togo",
+          "Value": "2082.434"
+        },
+        {
+          "CountryName": "Trinidad and Tobago",
+          "Value": "18007.573"
+        },
+        {
+          "CountryName": "Tunisia",
+          "Value": "26156.972"
+        },
+        {
+          "CountryName": "Turkey",
+          "Value": "378631.09"
+        },
+        {
+          "CountryName": "Turkmenistan",
+          "Value": "68998.881"
+        },
+        {
+          "CountryName": "Ukraine",
+          "Value": "171300.035"
+        },
+        {
+          "CountryName": "United Arab Emirates",
+          "Value": "196510.174"
+        },
+        {
+          "CountryName": "United Kingdom",
+          "Value": "358731.281"
+        },
+        {
+          "CountryName": "Tanzania",
+          "Value": "10131.79"
+        },
+        {
+          "CountryName": "United States of America",
+          "Value": "4761301.727"
+        },
+        {
+          "CountryName": "Uruguay",
+          "Value": "5872.957"
+        },
+        {
+          "CountryName": "Uzbekistan",
+          "Value": "81156.397"
+        },
+        {
+          "CountryName": "Venezuela",
+          "Value": "113717.543"
+        },
+        {
+          "CountryName": "Vietnam",
+          "Value": "191243.601"
+        },
+        {
+          "CountryName": "Yemen",
+          "Value": "8919.998"
+        },
+        {
+          "CountryName": "Zambia",
+          "Value": "6007.872"
+        },
+        {
+          "CountryName": "Zimbabwe",
+          "Value": "9714.938"
+        }
+      ]
+    }
+  ]
