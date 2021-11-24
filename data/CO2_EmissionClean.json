@@ -1418,6 +1418,16 @@
 }, {
 	"Region": "51",
 	"CountryName": "Armenia",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "51",
+	"CountryName": "Armenia",
+	"Year": "1985",
+	"Value": "200"
+}, {
+	"Region": "51",
+	"CountryName": "Armenia",
 	"Year": "1995",
 	"Value": "3368.027"
 }, {
@@ -1528,8 +1538,18 @@
 }, {
 	"Region": "31",
 	"CountryName": "Azerbaijan",
+	"Year": "1975",
+	"Value": "200"
+},  {
+	"Region": "31",
+	"CountryName": "Azerbaijan",
+	"Year": "1985",
+	"Value": "200"
+},  {
+	"Region": "31",
+	"CountryName": "Azerbaijan",
 	"Year": "1995",
-	"Value": "32372.42"
+	"Value": "200"
 }, {
 	"Region": "31",
 	"CountryName": "Azerbaijan",
@@ -1635,6 +1655,16 @@
 	"CountryName": "Bangladesh",
 	"Year": "2017",
 	"Value": "78270.17"
+}, {
+	"Region": "112",
+	"CountryName": "Belarus",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "112",
+	"CountryName": "Belarus",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "112",
 	"CountryName": "Belarus",
@@ -2853,6 +2883,16 @@
 }, {
 	"Region": "233",
 	"CountryName": "Estonia",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "233",
+	"CountryName": "Estonia",
+	"Year": "1985",
+	"Value": "200"
+}, {
+	"Region": "233",
+	"CountryName": "Estonia",
 	"Year": "1995",
 	"Value": "15889.313"
 }, {
@@ -3040,6 +3080,16 @@
 	"CountryName": "Gabon",
 	"Year": "2017",
 	"Value": "3367.911"
+}, {
+	"Region": "268",
+	"CountryName": "Georgia",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "268",
+	"CountryName": "Georgia",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "268",
 	"CountryName": "Georgia",
@@ -3833,6 +3883,16 @@
 }, {
 	"Region": "398",
 	"CountryName": "Kazakhstan",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "398",
+	"CountryName": "Kazakhstan",
+	"Year": "1985",
+	"Value": "200"
+}, {
+	"Region": "398",
+	"CountryName": "Kazakhstan",
 	"Year": "1995",
 	"Value": "170519.468"
 }, {
@@ -3968,6 +4028,16 @@
 }, {
 	"Region": "417",
 	"CountryName": "Kyrgyzstan",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "417",
+	"CountryName": "Kyrgyzstan",
+	"Year": "1985",
+	"Value": "200"
+}, {
+	"Region": "417",
+	"CountryName": "Kyrgyzstan",
 	"Year": "1995",
 	"Value": "4458.54"
 }, {
@@ -3995,6 +4065,16 @@
 	"CountryName": "Kyrgyzstan",
 	"Year": "2017",
 	"Value": "8909.263"
+}, {
+	"Region": "428",
+	"CountryName": "Latvia",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "428",
+	"CountryName": "Latvia",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "428",
 	"CountryName": "Latvia",
@@ -4105,6 +4185,16 @@
 	"CountryName": "Libya",
 	"Year": "2017",
 	"Value": "41528.35"
+}, {
+	"Region": "440",
+	"CountryName": "Lithuania",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "440",
+	"CountryName": "Lithuania",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "440",
 	"CountryName": "Lithuania",
@@ -4336,6 +4426,11 @@
 	"Year": "2017",
 	"Value": "445991.937"
 }, {
+	"Region": "496",
+	"CountryName": "Mongolia",
+	"Year": "1975",
+	"Value": "200"
+},{
 	"Region": "496",
 	"CountryName": "Mongolia",
 	"Year": "1985",
@@ -5920,7 +6015,17 @@
 	"CountryName": "Syrian Arab Republic",
 	"Year": "2017",
 	"Value": "23031.045"
+},  {
+	"Region": "762",
+	"CountryName": "Tajikistan",
+	"Year": "1975",
+	"Value": "200"
 }, {
+	"Region": "762",
+	"CountryName": "Tajikistan",
+	"Year": "1985",
+	"Value": "200"
+},{
 	"Region": "762",
 	"CountryName": "Tajikistan",
 	"Year": "1995",
@@ -6180,6 +6285,16 @@
 	"CountryName": "Turkey",
 	"Year": "2017",
 	"Value": "378631.09"
+},{
+	"Region": "795",
+	"CountryName": "Turkmenistan",
+	"Year": "1975",
+	"Value": "200"
+},{
+	"Region": "795",
+	"CountryName": "Turkmenistan",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "795",
 	"CountryName": "Turkmenistan",
@@ -6210,6 +6325,16 @@
 	"CountryName": "Turkmenistan",
 	"Year": "2017",
 	"Value": "68998.881"
+}, {
+	"Region": "804",
+	"CountryName": "Ukraine",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "804",
+	"CountryName": "Ukraine",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "804",
 	"CountryName": "Ukraine",
@@ -6440,6 +6565,16 @@
 	"CountryName": "Uruguay",
 	"Year": "2017",
 	"Value": "5872.957"
+}, {
+	"Region": "860",
+	"CountryName": "Uzbekistan",
+	"Year": "1975",
+	"Value": "200"
+}, {
+	"Region": "860",
+	"CountryName": "Uzbekistan",
+	"Year": "1985",
+	"Value": "200"
 }, {
 	"Region": "860",
 	"CountryName": "Uzbekistan",
