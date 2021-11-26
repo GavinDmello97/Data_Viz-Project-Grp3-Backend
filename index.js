@@ -25,12 +25,11 @@ app.get("/co2-emission", cors(),(req, res) => {
         let mainDataSet  = JSON.parse(data)
         var unique = (src, fn) => src.filter((s => o => !s.has(fn(o)) && s.add(fn(o)))(new Set));
         let filteredYears = unique(mainDataSet, (data) => data.Year)
-        console.log(filteredYears)
-        let tempArr = []
+        let finalYearSetArr = []
         for (let i = 0; i< filteredYears.length; i++) {
-            if(filteredYears[i].Year !== null) tempArr.push(filteredYears[i].Year);
+            if(filteredYears[i].Year !== null) finalYearSetArr.push(filteredYears[i].Year);
         }
-        tempArr.map(elementDate => {
+        finalYearSetArr.map(elementDate => {
             var filteredEvents = mainDataSet.filter(function(event){
                 return event.Year == elementDate;
             });
